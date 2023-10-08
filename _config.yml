@@ -21,8 +21,11 @@ author: Carman Cater
 
 navbar-links:
   About Me: "aboutme"
+  Projects:
+  Textbook Solutions:
+    - An Introduction to Statistical Learning with Applications in Python:
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Resume:
 
 ################
 # --- Logo --- #
