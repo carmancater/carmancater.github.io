@@ -12,3 +12,6 @@ Gemfile.lock
 
 beautiful-jekyll-theme-*.gem
 .ipynb_checkpoints/_config-checkpoint.yml
+.ipynb_checkpoints/beautiful-jekyll-theme-checkpoint.gemspec
+.ipynb_checkpoints/aboutme-checkpoint.md
+.ipynb_checkpoints/404-checkpoint.html
