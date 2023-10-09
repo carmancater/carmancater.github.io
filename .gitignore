@@ -18,3 +18,7 @@ beautiful-jekyll-theme-*.gem
 .ipynb_checkpoints/index-checkpoint.html
 .ipynb_checkpoints/screenshot-checkpoint.png
 .ipynb_checkpoints/staticman-checkpoint.yml
+.ipynb_checkpoints/feed-checkpoint.xml
+.ipynb_checkpoints/tags-checkpoint.html
+_posts/.ipynb_checkpoints/2020-02-26-flake-it-till-you-make-it-checkpoint.md
+_posts/.ipynb_checkpoints/2020-02-28-sample-markdown-checkpoint.md
