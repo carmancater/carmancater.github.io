@@ -52,23 +52,23 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+#  email: "someone@example.com"
+#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+#  facebook: 
+  github: carmancater
+#  twitter: 
+#  patreon:
+#  youtube: 
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+ linkedin: carmancater
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
+#  stackoverflow: "somenumber/yourname"
+#  snapchat: 
+#  instagram: 
 #  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
+#  telephone: 
+#  steam: 
 #  twitch: yourname
 #  yelp: yourname
 #  telegram: yourname
