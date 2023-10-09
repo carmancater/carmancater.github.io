@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Carman Cater
+title: 
 
 # Your name to show in the footer
 author: Carman Cater
@@ -26,8 +26,7 @@ navbar-links:
    - University:
   Textbook Solutions:
     - An Introduction to Statistical Learning with Applications in Python:
-  Resources:
-    - Resume:
+  Resume:
 
 ################
 # --- Logo --- #
