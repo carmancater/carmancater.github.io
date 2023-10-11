@@ -8,14 +8,14 @@ subtitle: Who am I? Background, interests, future pursuits
 Hi there, my name is Carman Cater and I am a Connecticut, USA born person with a passion for learning. 
 
 My life is guided by a few major forces that compel me to action:
-- :books: :black_nib: Love of learning (all quantitative fields)
-  - Math 
-  - Statistics/Machine Learning
-  - Computer Science
+- :books: Love of learning (all quantitative fields)
+  - :black_nib: Math 
+  - :chart_with_upwards_trend: Statistics/Machine Learning
+  - :computer: Computer Science
   - ...ever evolving list...
-- Love of working with people 
-- Love of teaching and delivering public presentaions
-- Love of exercise, healthy food, spending time outdoors
+- :office: Love of working with people 
+- :speech_balloon: Love of teaching and delivering public presentaions
+- :muscle: Love of exercise, healthy food, spending time outdoors
 
 
 
