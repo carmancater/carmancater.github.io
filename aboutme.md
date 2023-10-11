@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Who am I? Background, interests, future pursuits
+subtitle: Who am I? Background, interests, mission
 ---
 
 ## Background 
@@ -33,7 +33,9 @@ Guided by a few major forces that compel me to action:
 - :speech_balloon: Love of teaching and delivering public presentaions
 - :muscle: Love of exercise, healthy food, spending time outdoors
 
-## Future pursuits
+## Mission
+To apply my ability to learn quantitatively challenging concepts, problem solve, work in groups, teach, and deliver presentations. If you'd like to get in touch, use the links below.
+
 
 
 
