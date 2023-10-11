@@ -34,7 +34,7 @@ Guided by a few major forces that compel me to action:
 - :muscle: Love of exercise, healthy food, spending time outdoors
 
 ## Mission
-:100: To apply my ability to learn quantitatively challenging concepts, problem solve, work in groups, teach, and deliver presentations. If you'd like to get in touch, use the links below.
+To apply my ability to learn quantitatively challenging concepts, problem solve, work in groups, teach, and deliver presentations. If you'd like to get in touch, use the links below. :point_down:
 
 
 
