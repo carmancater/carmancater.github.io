@@ -1,16 +1,29 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Who am I? Background, interests, future pursuits
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+## Background 
+Hi there, my name is **Carman Cater** and I am a Connecticut, USA born person with a *passion for learning*. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My life is guided by a few major forces that compel me to action:
+- :books: Love of learning (all quantitative fields)
+  - Math
+  - Statistics/Machine Learning
+  - Computer Science
+  - ...ever evolving list...
+- Love of working with people 
+- Love of teaching and delivering public presentaions
+- Love of exercise, healthy food, spending time outdoors
 
-What else do you need?
 
-### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
+
+<!-- After narrowly sliding into community college (MxCC) after a tumultuos high school experience I began studying Business Management. It was at my transfer institution (CCSU) that I began tutoring statistics and mathematics.  -->
+
+
+
+<!-- From this time I made the connection between my love of working in groups, giving public presentations, learning and teaching that I began a lifelong quest for  -->
+
