@@ -23,7 +23,7 @@ Hi there, my name is Carman Cater and I am a Connecticut, USA born person with a
 ###### :arrow_right: Current life
 
 ## Interests
-My life is guided by a few major forces that compel me to action:
+Guided by a few major forces that compel me to action:
 - :books: Love of learning (all quantitative fields)
   - :black_nib: Math 
   - :chart_with_upwards_trend: Statistics/Machine Learning
