@@ -13,8 +13,9 @@ Hi there, my name is Carman Cater and I am a Connecticut, USA born person with a
   - University position tutoring mathematics and statistics
 - BA Business Management, two IT internships, starts to pursue MA
   - Adjuncts math/statistics at area universities while studying
+    - Check out my Rate My Professors reviews: [Central CT State University](https://www.ratemyprofessors.com/professor/2398329), [University of Hartford](https://www.ratemyprofessors.com/professor/2619271), [Capital Community College](https://www.ratemyprofessors.com/professor/2619272), [Goodwin University](https://www.ratemyprofessors.com/professor/2523642)
 
-##### Current life :arrow_left:
+##### :arrow_right: Current life
 
 ## Interests
 My life is guided by a few major forces that compel me to action:
