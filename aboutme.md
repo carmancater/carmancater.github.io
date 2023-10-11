@@ -18,7 +18,7 @@ Hi there, my name is Carman Cater and I am a Connecticut, USA born person with a
   - Joint research paper: [A Small Variation of the Circular Hodograph Theorem and the Best Elliptical Trajectory of the Planets](https://arxiv.org/abs/2109.11664){:target="_blank"}
 - Full time employment studying new areas
   - CT Department of Transportation
-  - Math related fields: Statistics, Machine Learning, Programming, ...
+  - Math related fields: Statistics/Data Analysis, Machine Learning, Programming, ...
 
 ###### :man: Current life
 
