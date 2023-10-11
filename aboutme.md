@@ -7,7 +7,7 @@ subtitle: Who am I? Background, interests, future pursuits
 ## Background 
 Hi there, my name is Carman Cater and I am a Connecticut, USA born person with a passion for learning. Here is my life in a few bullet points!
 
-###### :arrow_down: Beginning of life
+###### :arrow_right: Beginning of life
 - Public school graduate, community college transfer to local university studying business management
   - Four years sales associate large retail outlet
   - University tutoring mathematics and statistics
@@ -15,7 +15,7 @@ Hi there, my name is Carman Cater and I am a Connecticut, USA born person with a
   - Adjuncts math/statistics at area universities while studying
     - Check out my Rate My Professors reviews: [Central CT State University](https://www.ratemyprofessors.com/professor/2398329){:target="_blank"}, [University of Hartford](https://www.ratemyprofessors.com/professor/2619271){:target="_blank"}, [Capital Community College](https://www.ratemyprofessors.com/professor/2619272){:target="_blank"}, [Goodwin University](https://www.ratemyprofessors.com/professor/2523642){:target="_blank"}
 
-###### :arrow_up: Current life
+###### :arrow_right: Current life
 
 ## Interests
 My life is guided by a few major forces that compel me to action:
