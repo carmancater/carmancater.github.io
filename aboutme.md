@@ -5,8 +5,17 @@ subtitle: Who am I? Background, interests, future pursuits
 ---
 
 ## Background 
-Hi there, my name is Carman Cater and I am a Connecticut, USA born person with a passion for learning. 
+Hi there, my name is Carman Cater and I am a Connecticut, USA born person with a passion for learning. Here is my life in a few bullet points!
 
+### Beginning of life
+- Public school graduate, community college transfer to local university studying business management
+  - Four years sales associate large retail outlet
+  - University position tutoring mathematics and statistics
+- BA Business Management, two IT internships, starts to pursue MA
+  - Adjuncts math/statistics at area universities while studying
+
+
+## Interests
 My life is guided by a few major forces that compel me to action:
 - :books: Love of learning (all quantitative fields)
   - :black_nib: Math 
@@ -16,6 +25,12 @@ My life is guided by a few major forces that compel me to action:
 - :office: Love of working with people 
 - :speech_balloon: Love of teaching and delivering public presentaions
 - :muscle: Love of exercise, healthy food, spending time outdoors
+
+## Future pursuits
+
+
+
+
 
 
 
