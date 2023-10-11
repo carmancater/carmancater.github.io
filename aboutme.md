@@ -5,11 +5,11 @@ subtitle: Who am I? Background, interests, future pursuits
 ---
 
 ## Background 
-Hi there, my name is **Carman Cater** and I am a Connecticut, USA born person with a *passion for learning*. 
+Hi there, my name is Carman Cater and I am a Connecticut, USA born person with a passion for learning. 
 
 My life is guided by a few major forces that compel me to action:
-- :books: Love of learning (all quantitative fields)
-  - Math
+- :books: :black_nib: Love of learning (all quantitative fields)
+  - Math 
   - Statistics/Machine Learning
   - Computer Science
   - ...ever evolving list...
