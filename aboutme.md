@@ -10,8 +10,8 @@ Hi there, my name is Carman Cater and I am a Connecticut, USA born person with a
 ##### :arrow_right: Beginning of life
 - Public school graduate, community college transfer to local university studying business management
   - Four years sales associate large retail outlet
-  - University position tutoring mathematics and statistics
-- BA Business Management, two IT internships, starts to pursue MA
+  - University tutoring mathematics and statistics
+- BA Business Management, two IT internships, pursues MA
   - Adjuncts math/statistics at area universities while studying
     - Check out my Rate My Professors reviews: [Central CT State University](https://www.ratemyprofessors.com/professor/2398329), [University of Hartford](https://www.ratemyprofessors.com/professor/2619271), [Capital Community College](https://www.ratemyprofessors.com/professor/2619272), [Goodwin University](https://www.ratemyprofessors.com/professor/2523642)
 
