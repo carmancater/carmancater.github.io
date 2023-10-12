@@ -7,7 +7,7 @@ subtitle: Who am I? Background, interests, mission
 ## Background 
 Hi there, my name is Carman Cater and I am a Connecticut, USA born person with a passion for learning. Here is my life in a few bullet points!
 
-###### :baby: Old life
+###### :baby: Journey
 - Public school graduate, community college transfer to local university studyied business management
   - Four years sales associate large retail outlet
   - University tutor mathematics and statistics
@@ -17,7 +17,7 @@ Hi there, my name is Carman Cater and I am a Connecticut, USA born person with a
 - MA in Math/CS, continued teaching/studying
   - Joint research paper: [A Small Variation of the Circular Hodograph Theorem and the Best Elliptical Trajectory of the Planets](https://arxiv.org/abs/2109.11664){:target="_blank"}
 
-###### :man: Current life
+###### :man: Present day
 - Full time employment studying new areas
   - CT Department of Transportation
   - Math related fields: Statistics/Data Analysis, Machine Learning, Programming, ...
