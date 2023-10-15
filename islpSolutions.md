@@ -17,20 +17,20 @@ As a display of learning and reinforcement of concepts you will find below exerc
 - Chapter 2: Statistical Learning
     - Topics: What Is Statistical Learning?, Assessing Model Accuracy
     - Applied
-        - [Exercise 9](https://github.com/carmancater/an-introduction-to-statistical-learning-with-applications-in-python/blob/main/Chapter%2002%20-%20Statistical%20Learning/Ch%202%20Ex%2009.ipynb)
-        - [Exercise 10](https://github.com/carmancater/an-introduction-to-statistical-learning-with-applications-in-python/blob/main/Chapter%2002%20-%20Statistical%20Learning/Ch%202%20Ex%2010.ipynb)
+        - [Exercise 9](https://github.com/carmancater/an-introduction-to-statistical-learning-with-applications-in-python/blob/main/Chapter%2002%20-%20Statistical%20Learning/Ch%202%20Ex%2009.ipynb){:target="_blank"}
+        - [Exercise 10](https://github.com/carmancater/an-introduction-to-statistical-learning-with-applications-in-python/blob/main/Chapter%2002%20-%20Statistical%20Learning/Ch%202%20Ex%2010.ipynb){:target="_blank"}
 - Chapter 3: Linear Regression
     - Topics: Simple Linear Regression, Multiple Linear Regression, K-Nearest Neighbors
     - Conceptual
-        - [Solutions](https://github.com/carmancater/an-introduction-to-statistical-learning-with-applications-in-python/blob/main/Chapter%2003%20-%20Linear%20Regression/Ch%203%20Conceptual.md)
+        - [Solutions](https://github.com/carmancater/an-introduction-to-statistical-learning-with-applications-in-python/blob/main/Chapter%2003%20-%20Linear%20Regression/Ch%203%20Conceptual.md){:target="_blank"}
     - Applied
-        - [Exercise 8](https://github.com/carmancater/an-introduction-to-statistical-learning-with-applications-in-python/blob/main/Chapter%2003%20-%20Linear%20Regression/Ch%203%20Ex%2008.ipynb)
-        - [Exercise 9](https://github.com/carmancater/an-introduction-to-statistical-learning-with-applications-in-python/blob/main/Chapter%2003%20-%20Linear%20Regression/Ch%203%20Ex%2009.ipynb)
-        - [Exercise 10](https://github.com/carmancater/an-introduction-to-statistical-learning-with-applications-in-python/blob/main/Chapter%2003%20-%20Linear%20Regression/Ch%203%20Ex%2010.ipynb)
-        - [Exercise 11](https://github.com/carmancater/an-introduction-to-statistical-learning-with-applications-in-python/blob/main/Chapter%2003%20-%20Linear%20Regression/Ch%203%20Ex%2011.ipynb)
-        - [Exercise 12](https://github.com/carmancater/an-introduction-to-statistical-learning-with-applications-in-python/blob/main/Chapter%2003%20-%20Linear%20Regression/Ch%203%20Ex%2012.ipynb)
-        - [Exercise 13](https://github.com/carmancater/an-introduction-to-statistical-learning-with-applications-in-python/blob/main/Chapter%2003%20-%20Linear%20Regression/Ch%203%20Ex%2013.ipynb)
-        - [Exercise 14](https://github.com/carmancater/an-introduction-to-statistical-learning-with-applications-in-python/blob/main/Chapter%2003%20-%20Linear%20Regression/Ch%203%20Ex%2014.ipynb)
-        - [Exercise 15](https://github.com/carmancater/an-introduction-to-statistical-learning-with-applications-in-python/blob/main/Chapter%2003%20-%20Linear%20Regression/Ch%203%20Ex%2015.ipynb)
+        - [Exercise 8](https://github.com/carmancater/an-introduction-to-statistical-learning-with-applications-in-python/blob/main/Chapter%2003%20-%20Linear%20Regression/Ch%203%20Ex%2008.ipynb){:target="_blank"}
+        - [Exercise 9](https://github.com/carmancater/an-introduction-to-statistical-learning-with-applications-in-python/blob/main/Chapter%2003%20-%20Linear%20Regression/Ch%203%20Ex%2009.ipynb){:target="_blank"}
+        - [Exercise 10](https://github.com/carmancater/an-introduction-to-statistical-learning-with-applications-in-python/blob/main/Chapter%2003%20-%20Linear%20Regression/Ch%203%20Ex%2010.ipynb){:target="_blank"}
+        - [Exercise 11](https://github.com/carmancater/an-introduction-to-statistical-learning-with-applications-in-python/blob/main/Chapter%2003%20-%20Linear%20Regression/Ch%203%20Ex%2011.ipynb){:target="_blank"}
+        - [Exercise 12](https://github.com/carmancater/an-introduction-to-statistical-learning-with-applications-in-python/blob/main/Chapter%2003%20-%20Linear%20Regression/Ch%203%20Ex%2012.ipynb){:target="_blank"}
+        - [Exercise 13](https://github.com/carmancater/an-introduction-to-statistical-learning-with-applications-in-python/blob/main/Chapter%2003%20-%20Linear%20Regression/Ch%203%20Ex%2013.ipynb){:target="_blank"}
+        - [Exercise 14](https://github.com/carmancater/an-introduction-to-statistical-learning-with-applications-in-python/blob/main/Chapter%2003%20-%20Linear%20Regression/Ch%203%20Ex%2014.ipynb){:target="_blank"}
+        - [Exercise 15](https://github.com/carmancater/an-introduction-to-statistical-learning-with-applications-in-python/blob/main/Chapter%2003%20-%20Linear%20Regression/Ch%203%20Ex%2015.ipynb){:target="_blank"}
 - Chapter 4: Classification
     - Topics: An Overview, Why Not Linear Regression?, Logistic Regression, Generative Models for Classification (LDA, QDA, Naive Bayes), Generalized Linear Models (Linear Regression, Poisson Regression)
