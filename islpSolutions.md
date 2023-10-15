@@ -1,7 +1,7 @@
 ---
 layout: page
 share-title: ISLP
-title: ISLP
+<!-- title: ISLP -->
 ---
 
 ## :book: An Introduction to Statistical Learning with Applications in Python (ISLP), 2E
