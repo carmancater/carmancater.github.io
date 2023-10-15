@@ -25,8 +25,10 @@ navbar-links:
    - Personal:
    - University:
   Textbook Solutions:
-    - ISLP: "islpSolutions"
-  Resume:
+   - ISLP: "islpSolutions"
+  Experience:
+   - Resume:
+   - Courses Taught:
 
 ################
 # --- Logo --- #
