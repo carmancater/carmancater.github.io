@@ -15,12 +15,12 @@ Note: The text assumes a moderate level of mathematical maturity and features an
 #### :scroll: Original solutions to the exercises
 As a display of learning and reinforcement of concepts you will find below exercise solutions written in JupyterLab using Python and Markdown hosted on my GitHub.
 
-- Chapter 2: Statistical Learning
+- **Chapter 2: Statistical Learning**
     - Topics: What Is Statistical Learning?, Assessing Model Accuracy
     - Applied
         - [Exercise 9](https://github.com/carmancater/an-introduction-to-statistical-learning-with-applications-in-python/blob/main/Chapter%2002%20-%20Statistical%20Learning/Ch%202%20Ex%2009.ipynb){:target="_blank"}
         - [Exercise 10](https://github.com/carmancater/an-introduction-to-statistical-learning-with-applications-in-python/blob/main/Chapter%2002%20-%20Statistical%20Learning/Ch%202%20Ex%2010.ipynb){:target="_blank"}
-- Chapter 3: Linear Regression
+- **Chapter 3: Linear Regression**
     - Topics: Simple Linear Regression, Multiple Linear Regression, K-Nearest Neighbors
     - Conceptual
         - [Solutions](https://github.com/carmancater/an-introduction-to-statistical-learning-with-applications-in-python/blob/main/Chapter%2003%20-%20Linear%20Regression/Ch%203%20Conceptual.md){:target="_blank"}
@@ -33,5 +33,5 @@ As a display of learning and reinforcement of concepts you will find below exerc
         - [Exercise 13](https://github.com/carmancater/an-introduction-to-statistical-learning-with-applications-in-python/blob/main/Chapter%2003%20-%20Linear%20Regression/Ch%203%20Ex%2013.ipynb){:target="_blank"}
         - [Exercise 14](https://github.com/carmancater/an-introduction-to-statistical-learning-with-applications-in-python/blob/main/Chapter%2003%20-%20Linear%20Regression/Ch%203%20Ex%2014.ipynb){:target="_blank"}
         - [Exercise 15](https://github.com/carmancater/an-introduction-to-statistical-learning-with-applications-in-python/blob/main/Chapter%2003%20-%20Linear%20Regression/Ch%203%20Ex%2015.ipynb){:target="_blank"}
-- Chapter 4: Classification
+- **Chapter 4: Classification**
     - Topics: An Overview, Why Not Linear Regression?, Logistic Regression, Generative Models for Classification (LDA, QDA, Naive Bayes), Generalized Linear Models (Linear Regression, Poisson Regression)
