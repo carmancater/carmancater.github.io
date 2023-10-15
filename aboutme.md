@@ -5,7 +5,7 @@ subtitle: Who am I? Background, interests, mission
 ---
 
 ## Background 
-Hi there, my name is Carman Cater, I am from Connecticut, USA and have a passion for learning. Here is my life in a few bullet points!
+Hi there, my name is Carman Cater, I am from Connecticut, U.S. and have a passion for learning. Here is my life in a few bullet points!
 
 ###### :baby: Journey
 - Public school graduate, community college transfer to local university studied business management
