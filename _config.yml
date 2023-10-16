@@ -133,10 +133,7 @@ keywords: "Carman Cater, Carman, Cater, Resume, Statisics, Math, Learning"
 navbar-col: "#EAF2F8"
 
 navbar-text-col: "#404040"
-
-# navbar-border-col: "#DDDDDD"
-navbar-border-col: "#D4E6F1"
-
+navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
