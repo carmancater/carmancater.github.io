@@ -4,7 +4,7 @@ share-title: ISLP Solutions
 <!-- title: ISLP -->
 ---
 
-![ISLP]("/assets/img/islp.jpg"){: .mx-auto.d-block :}
+![ISLP](/assets/img/islp.jpg){: .mx-auto.d-block :}
 
 ## :book: An Introduction to Statistical Learning with Applications in Python (ISLP), 2E
 
