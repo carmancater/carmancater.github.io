@@ -20,8 +20,7 @@ As a display of learning and reinforcement of concepts you will find below exerc
 - **Chapter 2: Statistical Learning**
     - Topics: What Is Statistical Learning?, Assessing Model Accuracy
     - Applied
-        - [Exercise 9](https://github.com/carmancater/an-introduction-to-statistical-learning-with-applications-in-python/blob/main/Chapter%2002%20-%20Statistical%20Learning/Ch%202%20Ex%2009.ipynb){:target="_blank"}
-        - [Exercise 10](https://github.com/carmancater/an-introduction-to-statistical-learning-with-applications-in-python/blob/main/Chapter%2002%20-%20Statistical%20Learning/Ch%202%20Ex%2010.ipynb){:target="_blank"}
+        - [Exercise 9](https://github.com/carmancater/an-introduction-to-statistical-learning-with-applications-in-python/blob/main/Chapter%2002%20-%20Statistical%20Learning/Ch%202%20Ex%2009.ipynb){:target="_blank"}, [Exercise 10](https://github.com/carmancater/an-introduction-to-statistical-learning-with-applications-in-python/blob/main/Chapter%2002%20-%20Statistical%20Learning/Ch%202%20Ex%2010.ipynb){:target="_blank"}
 - **Chapter 3: Linear Regression**
     - Topics: Simple Linear Regression, Multiple Linear Regression, K-Nearest Neighbors
     - Conceptual
