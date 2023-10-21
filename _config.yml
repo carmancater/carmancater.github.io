@@ -24,7 +24,6 @@ navbar-links:
   Projects:
    - Personal:
    - University:
-     Public Key Cryptography: "publicKeyCryptographyUniversity"
   Textbook Solutions:
    - Statistical Learning: "islpSolutions"
   Resume:
