@@ -31,3 +31,4 @@ As a display of learning and reinforcement of concepts you will find below exerc
     - Topics: An Overview, Why Not Linear Regression?, Logistic Regression, Generative Models for Classification (LDA, QDA, Naive Bayes), Generalized Linear Models (Linear Regression, Poisson Regression)
     - Conceptual
         - [Solutions](https://github.com/carmancater/an-introduction-to-statistical-learning-with-applications-in-python/blob/main/Chapter%2004%20-%20Classification/Ch%204%20Conceptual.md){:target="_blank"}
+    - Applied
