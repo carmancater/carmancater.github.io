@@ -23,7 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Projects:
    - Personal:
-   - University:
+   - University: "ProjectsUniversity"
   Textbook Solutions:
    - Statistical Learning: "islpSolutions"
   Resume:
