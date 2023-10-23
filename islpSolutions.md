@@ -1,6 +1,6 @@
 ---
 layout: page
-share-title: ISLP Solutions
+share-title: ISLP
 <!-- title: ISLP -->
 ---
 
