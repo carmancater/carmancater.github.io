@@ -16,6 +16,7 @@ Hi there, my name is Carman Cater, I am from Connecticut, U.S. and have a passio
     - Check out my Rate My Professors reviews: [Central CT State University](https://www.ratemyprofessors.com/professor/2398329){:target="_blank"}, [University of Hartford](https://www.ratemyprofessors.com/professor/2619271){:target="_blank"}, [Capital Community College](https://www.ratemyprofessors.com/professor/2619272){:target="_blank"}, [Goodwin University](https://www.ratemyprofessors.com/professor/2523642){:target="_blank"}
 - MA in Math/CS, continued teaching/studying
   - Joint research paper: [A Small Variation of the Circular Hodograph Theorem and the Best Elliptical Trajectory of the Planets](https://arxiv.org/abs/2109.11664){:target="_blank"}
+  - [Presentation on public key cryptography](publicKeyCryptographyProject.html)
 
 ###### :man: Present day
 - Full time employment studying new areas
