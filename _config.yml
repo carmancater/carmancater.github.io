@@ -26,7 +26,7 @@ navbar-links:
    - University: "ProjectsUniversity"
   Archive of Learning:
    - Statistical Learning: "ISLP"
-  Resume:
+  Resume: "resume"
 
 ################
 # --- Logo --- #
