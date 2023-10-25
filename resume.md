@@ -1,3 +1,8 @@
+---
+layout: page
+title: Resume
+---
+
 ### :school: Education
 
 - **Master of Arts in Mathematics**  
