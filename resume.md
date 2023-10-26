@@ -33,6 +33,5 @@ University of Massachusetts Amherst
 Amherst, MA  
 09/2022 - 12/2022
     - Taught three weekly 50-minute Calculus 2 discussion sections.
-    - Learned leadership, communication, and presentation skills by completing a four-month teaching seminar.
-<!--     - Honed leadership, communication, and presentation skills by completing a four-month teaching seminar, enabling effective delivery of complex information to diverse audiences. -->
+    - Sharpened communication and presentation skills by completing a four-month teaching seminar, enabling effective delivery of complex information to diverse audiences.
     
