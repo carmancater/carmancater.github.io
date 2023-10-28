@@ -81,6 +81,14 @@ East Hartford, CT
     - Taught Principles of Statistics and Contemporary Math.
     - Demonstrated proficiency in Excel, utilizing various graphical tools such as histograms, circle and bar graphs, and time series to support statistical analysis, including simple linear regression.
     
+- **Tutor & Graduate Assistant**  
+Central Connecticut State University         
+The Learning Center       
+New Britain, CT          
+08/2014 - 05/2018    
+    - Helped university students across all levels of college-level Mathematics and Statistics courses, demonstrating proficiency in these subjects. Assisted supervisor to create the tutoring schedule.
+    - Acquired effective communication skills, able to convey complex information to non-technical audiences, which is valuable for presenting data insights to stakeholders.
+    
 ### :department_store: Sales Experience  
 - **Sales Associate**  
 Bob's Stores Footwear & Apparel  
