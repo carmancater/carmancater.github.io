@@ -65,6 +65,14 @@ West Hartford, CT
     - Taught Linear Algebra and Contemporary Math, including topics such as graph theory, networks, trees, sampling techniques, and descriptive statistics.
     - Utilized Excel spreadsheets to analyze student performance using descriptive statistics, conditional formatting, and Excel functions, resulting in data driven instructional decisions.
     
+- **Adjunct Instructor**  
+Central Connecticut State University       
+Department of Mathematical Sciences      
+New Britain, CT        
+08/2018 - 05/2022  
+    - Taught Elementary Algebra and summer bridge program to in-person and virtual classes.
+    - Nominated for Excellence in Teaching award, demonstrating exceptional oral communication.
+    
 ### :department_store: Sales Experience  
 - **Sales Associate**  
 Bob's Stores Footwear & Apparel  
