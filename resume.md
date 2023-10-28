@@ -74,6 +74,12 @@ New Britain, CT
     - Taught Elementary Algebra and summer bridge program to in-person and virtual classes.
     - Nominated for Excellence in Teaching award, demonstrating exceptional oral communication.
     
+- **Tutor**  
+Mathnasium           
+The Math Learning Center         
+Avon, CT            
+05/2020 - 09/2020    
+    - Tutored mathematics to students in grades K–12.      
 - **Instructor**  
 Goodwin University         
 Department of Math and Statistics        
@@ -89,13 +95,6 @@ New Britain, CT
 08/2014 - 05/2018    
     - Helped university students across all levels of college-level Mathematics and Statistics courses, demonstrating proficiency in these subjects. Assisted supervisor to create the tutoring schedule.
     - Acquired effective communication skills, able to convey complex information to non-technical audiences, which is valuable for presenting data insights to stakeholders.
-
-- **Tutor**  
-Mathnasium           
-The Math Learning Center         
-Avon, CT            
-05/2020 - 09/2020    
-    - Tutored mathematics to students in grades K–12.
 
 ### :department_store: Sales Experience  
 - **Sales Associate**  
