@@ -73,6 +73,14 @@ New Britain, CT
     - Taught Elementary Algebra and summer bridge program to in-person and virtual classes.
     - Nominated for Excellence in Teaching award, demonstrating exceptional oral communication.
     
+- **Instructor**  
+Goodwin University         
+Department of Math and Statistics        
+East Hartford, CT          
+09/2019 - 04/2020  
+    - Taught Principles of Statistics and Contemporary Math.
+    - Demonstrated proficiency in Excel, utilizing various graphical tools such as histograms, circle and bar graphs, and time series to support statistical analysis, including simple linear regression.
+    
 ### :department_store: Sales Experience  
 - **Sales Associate**  
 Bob's Stores Footwear & Apparel  
