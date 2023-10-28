@@ -33,23 +33,8 @@ Guided by a few major forces that compel me to action:
   - ...ever evolving list...
 - :office: Love of working with people 
 - :speech_balloon: Love of teaching and delivering public presentaions
+  - Scored 92nd percentile in Analytical Writing on the GRE!
 - :muscle: Love of exercise, healthy food, spending time outdoors
 
 ## Mission
 To apply my ability to learn quantitatively challenging concepts, problem solve, work in groups, teach, and deliver presentations. If you'd like to get in touch, use the links below. :point_down:
-
-
-
-
-
-
-
-
-
-
-<!-- After narrowly sliding into community college (MxCC) after a tumultuos high school experience I began studying Business Management. It was at my transfer institution (CCSU) that I began tutoring statistics and mathematics.  -->
-
-
-
-<!-- From this time I made the connection between my love of working in groups, giving public presentations, learning and teaching that I began a lifelong quest for  -->
-
