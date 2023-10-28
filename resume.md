@@ -13,6 +13,7 @@ Central Connecticut State University
 New Britain, CT
 
 - **Bachelor of Science in Business Management**  
+Noted coursework: Management Information Systems, Statistics, Computer Science  
 Awarded 2017 magna cum laude  
 Central Connecticut State University  
 New Britain, CT
