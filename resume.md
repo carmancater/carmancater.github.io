@@ -24,9 +24,9 @@ Connecticut Department of Transportation
 Office of Roadway Information Systems - Traffic Monitoring    
 Newington, CT  
 04/2023 - Present
-    - Data processing & analysis using in-house tools, various transportation software, Excel, Power BI, ArcGIS Pro
-    - Data ETL using FME, Power Query, Python
-    - Automation using Python scripts and FME workspaces
+    - Data processing & analysis using in-house tools, various transportation software, Excel, Power BI, ArcGIS Pro.
+    - Data ETL using FME, Power Query, Python.
+    - Automation using Python scripts and FME workspaces.
     
 - **Information Technology Intern**  
 Travelers Insurance    
@@ -37,7 +37,7 @@ Hartford, CT
     - Collaborated with a team to investigate commercial off the shelf artificial intelligence products, developed a recommendation to propose to senior leadership.
 
 
-### :school: University Experience
+### :school: Teaching Experience
 
 **Rate My Professor reviews:** [Central CT State University](https://www.ratemyprofessors.com/professor/2398329){:target="_blank"}, [University of Hartford](https://www.ratemyprofessors.com/professor/2619271){:target="_blank"}, [Capital Community College](https://www.ratemyprofessors.com/professor/2619272){:target="_blank"}, [Goodwin University](https://www.ratemyprofessors.com/professor/2523642){:target="_blank"}
 
@@ -49,4 +49,8 @@ Amherst, MA
     - Taught three weekly 50-minute Calculus 2 discussion sections.
     - Honed communication and presentation skills by completing a four-month teaching seminar, enabling effective delivery of complex information to diverse audiences.
     
-### :department_store: Sales Experience
+### :department_store: Sales Experience  
+Bob's Stores Footwear & Apparel  
+Middletown, CT  
+08/11 - 06/15
+    - Duties included all facets of working in a retail environment.
