@@ -2,6 +2,7 @@
 layout: page
 title: Projects
 subtitle: Sorted in reverse chronological order
+share-title: Carman Cater - Projects
 ---
 
 - 2021: [Best Ellipses Fitting the Orbits of Planets](ellipsesFittingTheOrbitsOfPlanetsPaper.html)

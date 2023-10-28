@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Resume
+share-title: Carman Cater - Resume
 ---
 
 ### :school: Education

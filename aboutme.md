@@ -2,6 +2,7 @@
 layout: page
 title: About me
 subtitle: Who am I? Background, interests, mission
+share-title: Carman Cater - About me
 ---
 
 ## Background 
