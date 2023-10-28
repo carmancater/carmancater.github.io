@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-subtitle: Sorted in reverse chronological order
+subtitle: Cool stuff to look at inside!
 share-title: Carman Cater - Projects
 ---
 
