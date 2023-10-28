@@ -50,6 +50,7 @@ Amherst, MA
     - Honed communication and presentation skills by completing a four-month teaching seminar, enabling effective delivery of complex information to diverse audiences.
     
 ### :department_store: Sales Experience  
+- **Sales Associate**  
 Bob's Stores Footwear & Apparel  
 Middletown, CT  
 08/11 - 06/15
