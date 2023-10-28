@@ -49,6 +49,14 @@ Amherst, MA
     - Taught three weekly 50-minute Calculus 2 discussion sections.
     - Honed communication and presentation skills by completing a four-month teaching seminar, enabling effective delivery of complex information to diverse audiences.
     
+- **Adjunct Instructor**  
+Capital Community College    
+Department of Science and Mathematics   
+Hartford, CT    
+09/2020 - 05/2022
+    - Taught Pre-Algebra and Intermediate Algebra to in-person and virtual classes.
+    - Created effective PowerPoint presentations to enhance lectures.
+    
 ### :department_store: Sales Experience  
 - **Sales Associate**  
 Bob's Stores Footwear & Apparel  
