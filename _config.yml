@@ -22,8 +22,7 @@ author: Carman Cater
 navbar-links:
   About Me: "aboutme"
   Projects: "Projects"
-  Archive of Learning:
-   - Statistical Learning: "ISLP"
+  Current Studies: "currentStudies"
   Resume: "resume"
 
 ################
