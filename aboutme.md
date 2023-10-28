@@ -22,6 +22,7 @@ Hi there, my name is Carman Cater, I am from Connecticut, U.S. and have a passio
 - Full time employment studying new areas
   - CT Department of Transportation
   - Math related fields: Statistics/Data Analysis, Machine Learning, Programming, ...
+  - [See what I'm studying here!](currentStudies.md)
 
 ## Interests
 Guided by a few major forces that compel me to action:
