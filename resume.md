@@ -57,6 +57,14 @@ Hartford, CT
     - Taught Pre-Algebra and Intermediate Algebra to in-person and virtual classes.
     - Created effective PowerPoint presentations to enhance lectures.
     
+- **Adjunct Instructor**  
+University of Hartford     
+Department of Mathematics     
+West Hartford, CT      
+08/2020 - 05/2022  
+    - Taught Linear Algebra and Contemporary Math, including topics such as graph theory, networks, trees, sampling techniques, and descriptive statistics.
+    - Utilized Excel spreadsheets to analyze student performance using descriptive statistics, conditional formatting, and Excel functions, resulting in data driven instructional decisions.
+    
 ### :department_store: Sales Experience  
 - **Sales Associate**  
 Bob's Stores Footwear & Apparel  
