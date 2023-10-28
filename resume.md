@@ -39,6 +39,8 @@ Hartford, CT
 
 ### :school: University Experience
 
+**Rate My Professor reviews:** [Central CT State University](https://www.ratemyprofessors.com/professor/2398329){:target="_blank"}, [University of Hartford](https://www.ratemyprofessors.com/professor/2619271){:target="_blank"}, [Capital Community College](https://www.ratemyprofessors.com/professor/2619272){:target="_blank"}, [Goodwin University](https://www.ratemyprofessors.com/professor/2523642){:target="_blank"}
+
 - **Teaching Assistant**  
 University of Massachusetts Amherst  
 Department of Mathematics and Statistics  
