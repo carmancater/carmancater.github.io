@@ -1,6 +1,6 @@
 ---
 layout: page
-title: University Projects
+title: Projects
 subtitle: Sorted in reverse chronological order
 ---
 

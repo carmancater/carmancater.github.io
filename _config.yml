@@ -21,9 +21,7 @@ author: Carman Cater
 
 navbar-links:
   About Me: "aboutme"
-  Projects:
-   - Personal:
-   - University: "ProjectsUniversity"
+  Projects: "Projects"
   Archive of Learning:
    - Statistical Learning: "ISLP"
   Resume: "resume"
