@@ -4,7 +4,7 @@ title: Resume
 share-title: Carman Cater - Resume
 ---
 
-### :school: Education
+### :books: Education
 
 - **Master of Arts in Mathematics**  
 Specialization in Computer Science  
