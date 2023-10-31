@@ -1,6 +1,7 @@
 ---
 layout: page
-share-title: Carman Cater - ISLP
+share-title: Carman Cater - ISLP Textbook Solutions
+share-description: Solutions for An Introduction to Statistical Learning with Applications in Python (ISLP)
 <!-- title: ISLP -->
 ---
 
