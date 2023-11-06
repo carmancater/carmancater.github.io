@@ -7,7 +7,7 @@ share-description: Solutions for An Introduction to Statistical Learning with Ap
 
 ![ISLP](/assets/img/islp.jpg){: .mx-auto.d-block :}
 
-## :book: An Introduction to Statistical Learning with Applications in Python (ISLP)
+## :book: An Introduction to Statistical Learning with Applications in Python (ISLP) Solutions
 
 As a pure math student seeking an introduction into the foundations of machine learning, ISLP written by Gareth James, Daniela Witten, Trevor Hastie, Rob Tibshirani, and Jonathan Taylor is regarded as one of the best entry points. Not only a quality textbook, but highly accessible! [Click to read for free](https://www.statlearning.com/){:target="_blank"}. 
 
