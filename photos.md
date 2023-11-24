@@ -4,3 +4,47 @@ title: Photos
 subtitle: 
 share-title: Carman Cater - Photos
 ---
+
+<!doctype html>
+<html lang="en">
+<head>
+    <title>Pure CSS tlightbox - a Photo Gallery without JavaScript</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        html, body { position: relative; top: 0; left: 0; bottom: 0; right: 0; margin: 0; }
+
+        .tlightbox {
+            display: none;
+        }
+
+        .tlightbox:target {
+            position: fixed;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            display: grid;
+            place-items: center;
+            align-content: center;
+            background: black;
+            color: white;
+            border: 0;
+            z-index: 42;
+        }
+
+        .tlightbox IMG { /* to fit the whole image on small screen */
+            max-height: 100%;
+            max-width: 100%;
+        }
+   
+    </style>
+</head>
+<body>
+    <h1 id="gallery">Pure CSS tlightbox - a Photo Gallery without JavaScript</h1>
+    <a href="#CarmanCater.jpg"><img src="/assets/img/CarmanCater.jpg" alt=""></a>
+
+    <a href="#gallery" class=tlightbox id=CarmanCater.jpg><img src="/assets/img/CarmanCater.jpg" alt=""></a>
+
+</body>
+</html>
