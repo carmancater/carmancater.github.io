@@ -22,9 +22,15 @@ New Britain, CT
 
 - **Transportation Planner CT Careers Trainee**  
 Connecticut Department of Transportation  
+Office of GIS and Data Analytics - Enterprise GIS      
+Newington, CT  
+01/2024 - Present  
+
+- **Transportation Planner CT Careers Trainee**  
+Connecticut Department of Transportation  
 Office of Roadway Information Systems - Traffic Monitoring    
 Newington, CT  
-04/2023 - Present
+04/2023 - 01/2024  
     - Data processing & analysis using in-house tools, various transportation software, Excel, Power BI, ArcGIS Pro.
     - Data ETL using FME, Power Query, Python.
     - Automation using Python scripts and FME workspaces.
