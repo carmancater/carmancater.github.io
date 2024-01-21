@@ -8,10 +8,12 @@ share-title: Carman Cater - Media
 ### :camera: Photos
 
 ### :microphone: Audio
+- 2022: Hurricane Poem
+    - Artist: My mother, [Lou Ann Baylock](https://www.linkedin.com/in/lou-ann-b-941a27163/){:target="_blank"}
+    - <audio controls src="/assets/audio/Mom Hurricane Poem 2022.m4a"></audio>
 - 2020: Hit Me With Your Car(man)  
-    - Audio Engineer: [Ricky Bensics](https://www.linkedin.com/in/rickybensics/){:target="_blank"}
+    - Cover by: Carman Cater, Audio Engineer: [Ricky Bensics](https://www.linkedin.com/in/rickybensics/){:target="_blank"}, Lyrics: [Value Select](https://www.youtube.com/@ValueSelectTV), Melody: [B-Ray](https://www.youtube.com/watch?v=k857d-_kbk0&t=0s)
     - <audio controls src="/assets/audio/hit me with your carman.mp3"></audio>
-    
-<!--     - <figure>
-  <audio controls src="/assets/audio/hit me with your carman.mp3"></audio>
-</figure> -->
+- 2020: Ocean 
+    - Artist: Carman Cater...start of COVID lockdown, keeping busy!
+    - <audio controls src="/assets/audio/ocean.m4a"></audio>
