@@ -8,7 +8,8 @@ share-title: Carman Cater - Media
 ### :camera: Photos
 
 ### :microphone: Audio
+**Hit Me With Your Car(man)**
+Audio Engineer: [Ricky Bensics](https://www.linkedin.com/in/rickybensics/){:target="_blank"}
 <figure>
-  <figcaption>Listen to the T-Rex:</figcaption>
   <audio controls src="/assets/audio/hit me with your carman.mp3"></audio>
 </figure>
