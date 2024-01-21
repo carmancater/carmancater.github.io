@@ -8,4 +8,7 @@ share-title: Carman Cater - Media
 ### :camera: Photos
 
 ### :microphone: Audio
-![Hit Me With Your Carman](https://carmancater.github.io/assets/audio/hit%20me%20with%20your%20carman.mp3)
+<figure>
+  <figcaption>Listen to the T-Rex:</figcaption>
+  <audio controls src="/assets/audio/hit me with your carman.mp3"></audio>
+</figure>
