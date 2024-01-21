@@ -15,4 +15,4 @@ Below is a list of topics I am studying. The motivation is to learn. The goal is
     
 - **HTML/CSS**
     - 2023: [Survey Form](Survey Form.html){:target="_blank"}
-        - [View HTML](SurveyFormHTML.md){:target="_blank"}, [View CSS](SurveyFormCSS.md){:target="_blank"}
+        - [View HTML](SurveyFormHTML.md), [View CSS](SurveyFormCSS.md)
