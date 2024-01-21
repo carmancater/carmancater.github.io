@@ -8,8 +8,8 @@ share-title: Carman Cater - Media
 ### :camera: Photos
 
 ### :microphone: Audio
-2020: Hit Me With Your Car(man)  
-Audio Engineer: [Ricky Bensics](https://www.linkedin.com/in/rickybensics/){:target="_blank"}
-<figure>
+- 2020: Hit Me With Your Car(man)  
+    - Audio Engineer: [Ricky Bensics](https://www.linkedin.com/in/rickybensics/){:target="_blank"}
+    - <figure>
   <audio controls src="/assets/audio/hit me with your carman.mp3"></audio>
 </figure>
