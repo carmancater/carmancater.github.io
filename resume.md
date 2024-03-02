@@ -6,7 +6,7 @@ share-title: Carman Cater - Resume
 
 ### :office: Work Experience
 
-#### Transportation Planner Trainee 
+#### Transportation Planner Trainee
 **Connecticut Department of Transportation** *(Newington, CT)*  
 Office of Geographic Information Systems and Data Analytics (01/2024 – Present)  
 Office of Roadway Information Systems (04/2023 – 01/2024)  
@@ -16,14 +16,14 @@ Office of Roadway Information Systems (04/2023 – 01/2024)
 - Data integration, processing, and analysis using various cloud software, Excel, Power BI, ESRI ArcGIS Pro, as well as MS Access SQL database to perform SQL queries.
 - Automation using Feature Manipulation Engine, Power Query, and Python scripts along with supporting technical documentation.
 
-#### Teaching Assistant 
+#### Teaching Assistant
 **University of Massachusetts Amherst** *(Amherst, MA)*  
 09/2022 - 12/2022  
 - Conducted and facilitated three weekly calculus discussion sections.
 - Passed rigorous advanced calculus and linear algebra qualifying exam demonstrating strong analytical and problem-solving skills.
 - Honed leadership, communication, and presentation skills by completing a four-month teaching seminar enabling effective delivery of complex information to diverse audiences.
 
-#### Adjunct Mathematics and Statistics Professor  
+#### Adjunct Mathematics and Statistics Professor
 **Capital Community College**
 **University of Hartford**
 **Central Connecticut State University**
