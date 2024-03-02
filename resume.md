@@ -55,3 +55,13 @@ Minor in computer science; Information technology coursework.
 
 **B.S. - Business Management**  
 Minor in mathematics; Computer science and management information systems coursework.
+
+### :pencil2: Job Related Training
+
+**Kaggle:** Python, Pandas, Intermediate Machine Learning, Data Visualization, Feature Engineering, Advanced SQL, Intro to Deep Learning
+
+**Pragmatic Works:** Power BI Beginner to Pro Workshop, Data Modeling for Power BI
+
+**ESRI:** ArcGIS Online, GIS Basics, ArcGIS Pro, Map Projections, Coordinate Systems
+
+**FHWA National Highway Institute:** Urban Travel Demand Forecasting
