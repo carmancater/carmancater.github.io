@@ -69,3 +69,10 @@ Minor in mathematics; Computer science and management information systems course
 ### :page_facing_up: Professional Publications
 
 Cater, C., Perdomo, O., & Valentine, A. (2021) *A Small Variation of the Circular Hodograph Theorem and the Best Elliptical Trajectory of the Planets.*  [https://arxiv.org/abs/2109.11664](https://arxiv.org/abs/2109.11664){:target="_blank"}
+
+### :computer: Technical Skills Summary
+
+- **Programming languages:** SQL, Python, Java, C#, HTML, CSS, XML, JSON.
+- **Software/Applications:** VS Code, Spyder, JupyterLab, Eclipse, Power BI, Microsoft 365 (Word, Excel, Access, PowerPoint etc.), ArcGIS Pro, Power Query, Power Automate, SharePoint, Feature Manipulation Engine (extract, transform, load software), MS SQL Server, MySQL.
+- **Statistics:** Sampling techniques, mean, median, mode, range, standard deviation, variance, skewness, linear & multiple regression, hypothesis testing, confidence intervals, probability.
+- **Mathematics:** Calculus (differential, integral, multivariable/vector), discrete, linear algebra, abstract algebra, real analysis, topology, differential equations, geometry, differential geometry, complex analysis.
