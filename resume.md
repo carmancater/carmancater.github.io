@@ -65,3 +65,7 @@ Minor in mathematics; Computer science and management information systems course
 **ESRI:** ArcGIS Online, GIS Basics, ArcGIS Pro, Map Projections, Coordinate Systems
 
 **FHWA National Highway Institute:** Urban Travel Demand Forecasting
+
+### :page_facing_up: Professional Publications
+
+Cater, C., Perdomo, O., & Valentine, A. (2021) *A Small Variation of the Circular Hodograph Theorem and the Best Elliptical Trajectory of the Planets.*  [https://arxiv.org/abs/2109.11664](https://arxiv.org/abs/2109.11664){:target="_blank"}
