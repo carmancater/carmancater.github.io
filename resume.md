@@ -4,33 +4,12 @@ title: Resume
 share-title: Carman Cater - Resume
 ---
 
-### :books: Education
+### :office: Work Experience
 
-- **Master of Arts in Mathematics**  
-Specialization in Computer Science  
-Awarded 2020 with GPA 3.96  
-Central Connecticut State University  
-New Britain, CT
-
-- **Bachelor of Science in Business Management**  
-Noted coursework: Management Information Systems, Statistics, Computer Science  
-Awarded 2017 magna cum laude  
-Central Connecticut State University  
-New Britain, CT
-
-### :office: Office Experience
-
-- **Transportation Planner CT Careers Trainee**  
-Connecticut Department of Transportation  
-Office of GIS and Data Analytics - Enterprise GIS      
-Newington, CT  
-01/2024 - Present  
-
-- **Transportation Planner CT Careers Trainee**  
-Connecticut Department of Transportation  
-Office of Roadway Information Systems - Traffic Monitoring    
-Newington, CT  
-04/2023 - 01/2024  
+**Transportation Planner Trainee**  
+**Connecticut Department of Transportation** *(Newington, CT)*  
+Office of Geographic Information Systems and Data Analytics (01/2024 – Present) 
+Office of Roadway Information Systems (04/2023 – 01/2024)   
     - Data processing & analysis using in-house tools, various transportation software, Excel, Power BI, ArcGIS Pro.
     - Data ETL using FME, Power Query, Python.
     - Automation using Python scripts and FME workspaces.
@@ -42,9 +21,6 @@ Hartford, CT
 06/2016 - 08/2016 & 06/2017 - 08/2017
     - Demonstrated strong programming and database management skills by developing a computer program utilizing C#, SQL, HTML, and CSS in Microsoft Visual Studio to query an MS SQL Server database, generating a daily report. Helped manager perform workload estimates.
     - Collaborated with a team to investigate commercial off the shelf artificial intelligence products, developed a recommendation to propose to senior leadership.
-
-
-### :school: Teaching Experience
 
 **Rate My Professor reviews:** [Central CT State University](https://www.ratemyprofessors.com/professor/2398329){:target="_blank"}, [University of Hartford](https://www.ratemyprofessors.com/professor/2619271){:target="_blank"}, [Capital Community College](https://www.ratemyprofessors.com/professor/2619272){:target="_blank"}, [Goodwin University](https://www.ratemyprofessors.com/professor/2523642){:target="_blank"}
 
@@ -102,9 +78,16 @@ New Britain, CT
     - Helped university students across all levels of college-level Mathematics and Statistics courses, demonstrating proficiency in these subjects. Assisted supervisor to create the tutoring schedule.
     - Acquired effective communication skills, able to convey complex information to non-technical audiences, which is valuable for presenting data insights to stakeholders.
 
-### :department_store: Sales Experience  
-- **Sales Associate**  
-Bob's Stores Footwear & Apparel  
-Middletown, CT  
-08/11 - 06/15
-    - Duties included all facets of working in a retail environment.
+### :books: Education
+
+- **Master of Arts in Mathematics**  
+Specialization in Computer Science  
+Awarded 2020 with GPA 3.96  
+Central Connecticut State University  
+New Britain, CT
+
+- **Bachelor of Science in Business Management**  
+Noted coursework: Management Information Systems, Statistics, Computer Science  
+Awarded 2017 magna cum laude  
+Central Connecticut State University  
+New Britain, CT
