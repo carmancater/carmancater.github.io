@@ -34,9 +34,12 @@ Rate My Professor reviews: [Central CT State University](https://www.ratemyprofe
 - Supported and trained faculty members as well as students in the use of software and technology systems when requested.
 - Set up cloud software to manage student accounts while creating a connection between multiple learning platforms to integrate data from various sources.
 
-    
-    
-    
+**Tutor & Graduate Assistant**  
+**Central Connecticut State University** (*New Britain, CT*; 08/2014 - 05/2018)  
+- Assisted university students across all levels of college mathematics and statistics courses by giving presentations as well as guiding them through Microsoft Excel statistical software packages.
+- Acquired effective leadership and communication skills, enhancing ability to convey complex information to non-technical audiences.
+
+
 **Information Technology Intern**  
 Travelers Insurance    
 Business Insurance Production Operations    
@@ -46,16 +49,6 @@ Hartford, CT
     - Collaborated with a team to investigate commercial off the shelf artificial intelligence products, developed a recommendation to propose to senior leadership.
 
 
-
-
-    
-- **Tutor & Graduate Assistant**  
-Central Connecticut State University         
-The Learning Center       
-New Britain, CT          
-08/2014 - 05/2018    
-    - Helped university students across all levels of college-level Mathematics and Statistics courses, demonstrating proficiency in these subjects. Assisted supervisor to create the tutoring schedule.
-    - Acquired effective communication skills, able to convey complex information to non-technical audiences, which is valuable for presenting data insights to stakeholders.
 
 ### :books: Education
 
