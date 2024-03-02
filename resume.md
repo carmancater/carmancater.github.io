@@ -17,7 +17,8 @@ Office of Roadway Information Systems (04/2023 – 01/2024)
 - Automation using Feature Manipulation Engine, Power Query, and Python scripts along with supporting technical documentation.
 
 **Teaching Assistant**  
-**University of Massachusetts Amherst** *(Amherst, MA)* (09/2022 - 12/2022)  
+**University of Massachusetts Amherst** *(Amherst, MA)*  
+09/2022 - 12/2022  
 - Conducted and facilitated three weekly calculus discussion sections.
 - Passed rigorous advanced calculus and linear algebra qualifying exam demonstrating strong analytical and problem-solving skills.
 - Honed leadership, communication, and presentation skills by completing a four-month teaching seminar enabling effective delivery of complex information to diverse audiences.
