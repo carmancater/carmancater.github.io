@@ -16,6 +16,13 @@ Office of Roadway Information Systems (04/2023 – 01/2024)
 - Data integration, processing, and analysis using various cloud software, Excel, Power BI, ESRI ArcGIS Pro, as well as MS Access SQL database to perform SQL queries.
 - Automation using Feature Manipulation Engine, Power Query, and Python scripts along with supporting technical documentation.
 
+**Teaching Assistant**  
+**University of Massachusetts Amherst** *(Amherst, MA)* (09/2022 - 12/2022)  
+- Conducted and facilitated three weekly calculus discussion sections.
+- Passed rigorous advanced calculus and linear algebra qualifying exam demonstrating strong analytical and problem-solving skills.
+- Honed leadership, communication, and presentation skills by completing a four-month teaching seminar enabling effective delivery of complex information to diverse audiences.
+
+    
     
 **Information Technology Intern**  
 Travelers Insurance    
@@ -27,14 +34,6 @@ Hartford, CT
 
 **Rate My Professor reviews:** [Central CT State University](https://www.ratemyprofessors.com/professor/2398329){:target="_blank"}, [University of Hartford](https://www.ratemyprofessors.com/professor/2619271){:target="_blank"}, [Capital Community College](https://www.ratemyprofessors.com/professor/2619272){:target="_blank"}, [Goodwin University](https://www.ratemyprofessors.com/professor/2523642){:target="_blank"}
 
-- **Teaching Assistant**  
-University of Massachusetts Amherst  
-Department of Mathematics and Statistics  
-Amherst, MA  
-09/2022 - 12/2022
-    - Taught three weekly 50-minute Calculus 2 discussion sections.
-    - Honed communication and presentation skills by completing a four-month teaching seminar, enabling effective delivery of complex information to diverse audiences.
-    
 - **Adjunct Instructor**  
 Capital Community College    
 Department of Science and Mathematics   
