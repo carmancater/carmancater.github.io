@@ -28,6 +28,13 @@ Office of Roadway Information Systems (04/2023 – 01/2024)
 **University of Hartford** (*West Hartford, CT*; 08/2020 - 05/2022)  
 **Central Connecticut State University** (*New Britain, CT*; 08/2018 - 05/2022)  
 **Goodwin University** (*East Hartford*; 09/2019 - 04/2020)  
+- Courses taught: principles of statistics, linear algebra, contemporary math, intermediate algebra, elementary algebra, pre-algebra.        
+- Delivered instruction in statistical methods and graph theory including sampling techniques, mean, median, mode, standard deviation, variance, range, skewness, simple linear regression, hypothesis testing, confidence intervals, probability, networks, and trees.
+- Use and troubleshooting of technology including desktop and laptop computers, overhead and tripod cameras, built-in and wireless microphones, overhead and camera projectors, to deliver live content to students.
+- Supported and trained faculty members as well as students in the use of software and technology systems when requested.
+- Set up cloud software to manage student accounts while creating a connection between multiple learning platforms to integrate data from various sources.
+
+    
     
     
 **Information Technology Intern**  
