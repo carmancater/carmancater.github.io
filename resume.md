@@ -28,6 +28,7 @@ Office of Roadway Information Systems (04/2023 – 01/2024)
 **University of Hartford** (*West Hartford, CT*; 08/2020 - 05/2022)  
 **Central Connecticut State University** (*New Britain, CT*; 08/2018 - 05/2022)  
 **Goodwin University** (*East Hartford*; 09/2019 - 04/2020)  
+Rate My Professor reviews: [Central CT State University](https://www.ratemyprofessors.com/professor/2398329){:target="_blank"}, [University of Hartford](https://www.ratemyprofessors.com/professor/2619271){:target="_blank"}, [Capital Community College](https://www.ratemyprofessors.com/professor/2619272){:target="_blank"}, [Goodwin University](https://www.ratemyprofessors.com/professor/2523642){:target="_blank"}
 - Courses taught: principles of statistics, linear algebra, contemporary math, intermediate algebra, elementary algebra, pre-algebra.        
 - Delivered instruction in statistical methods and graph theory including sampling techniques, mean, median, mode, standard deviation, variance, range, skewness, simple linear regression, hypothesis testing, confidence intervals, probability, networks, and trees.
 - Use and troubleshooting of technology including desktop and laptop computers, overhead and tripod cameras, built-in and wireless microphones, overhead and camera projectors, to deliver live content to students.
@@ -45,45 +46,9 @@ Hartford, CT
     - Demonstrated strong programming and database management skills by developing a computer program utilizing C#, SQL, HTML, and CSS in Microsoft Visual Studio to query an MS SQL Server database, generating a daily report. Helped manager perform workload estimates.
     - Collaborated with a team to investigate commercial off the shelf artificial intelligence products, developed a recommendation to propose to senior leadership.
 
-**Rate My Professor reviews:** [Central CT State University](https://www.ratemyprofessors.com/professor/2398329){:target="_blank"}, [University of Hartford](https://www.ratemyprofessors.com/professor/2619271){:target="_blank"}, [Capital Community College](https://www.ratemyprofessors.com/professor/2619272){:target="_blank"}, [Goodwin University](https://www.ratemyprofessors.com/professor/2523642){:target="_blank"}
 
-- **Adjunct Instructor**  
-Capital Community College    
-Department of Science and Mathematics   
-Hartford, CT    
-09/2020 - 05/2022
-    - Taught Pre-Algebra and Intermediate Algebra to in-person and virtual classes.
-    - Created effective PowerPoint presentations to enhance lectures.
-    
-- **Adjunct Instructor**  
-University of Hartford     
-Department of Mathematics     
-West Hartford, CT      
-08/2020 - 05/2022  
-    - Taught Linear Algebra and Contemporary Math, including topics such as graph theory, networks, trees, sampling techniques, and descriptive statistics.
-    - Utilized Excel spreadsheets to analyze student performance using descriptive statistics, conditional formatting, and Excel functions, resulting in data driven instructional decisions.
-    
-- **Adjunct Instructor**  
-Central Connecticut State University       
-Department of Mathematical Sciences      
-New Britain, CT        
-08/2018 - 05/2022  
-    - Taught Elementary Algebra and summer bridge program to in-person and virtual classes.
-    - Nominated for Excellence in Teaching award, demonstrating exceptional oral communication.
-    
-- **Tutor**  
-Mathnasium           
-The Math Learning Center         
-Avon, CT            
-05/2020 - 09/2020    
-    - Tutored mathematics to students in grades K–12.      
-- **Instructor**  
-Goodwin University         
-Department of Math and Statistics        
-East Hartford, CT          
-09/2019 - 04/2020  
-    - Taught Principles of Statistics and Contemporary Math.
-    - Demonstrated proficiency in Excel, utilizing various graphical tools such as histograms, circle and bar graphs, and time series to support statistical analysis, including simple linear regression.
+
+
     
 - **Tutor & Graduate Assistant**  
 Central Connecticut State University         
