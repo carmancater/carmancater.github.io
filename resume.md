@@ -9,12 +9,12 @@ share-title: Carman Cater - Resume
 **Transportation Planner Trainee**  
 **Connecticut Department of Transportation** *(Newington, CT)*  
 Office of Geographic Information Systems and Data Analytics (01/2024 – Present) 
-Office of Roadway Information Systems (04/2023 – 01/2024)   
+Office of Roadway Information Systems (04/2023 – 01/2024)
 - Data processing & analysis using in-house tools, various transportation software, Excel, Power BI, ArcGIS Pro.
 - Data ETL using FME, Power Query, Python.
 - Automation using Python scripts and FME workspaces.
     
-- **Information Technology Intern**  
+**Information Technology Intern**  
 Travelers Insurance    
 Business Insurance Production Operations    
 Hartford, CT  
