@@ -48,14 +48,10 @@ Rate My Professor reviews: [Central CT State University](https://www.ratemyprofe
 
 ### :books: Education
 
-- **Master of Arts in Mathematics**  
-Specialization in Computer Science  
-Awarded 2020 with GPA 3.96  
-Central Connecticut State University  
-New Britain, CT
+**Central Connecticut State University** (*New Britain, CT*)  
 
-- **Bachelor of Science in Business Management**  
-Noted coursework: Management Information Systems, Statistics, Computer Science  
-Awarded 2017 magna cum laude  
-Central Connecticut State University  
-New Britain, CT
+**M.A. - Mathematics**  
+Minor in computer science; Information technology coursework.  
+
+**B.S. - Business Management**  
+Minor in mathematics; Computer science and management information systems coursework.
