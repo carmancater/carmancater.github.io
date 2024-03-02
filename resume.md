@@ -41,14 +41,10 @@ Rate My Professor reviews: [Central CT State University](https://www.ratemyprofe
 
 
 **Information Technology Intern**  
-Travelers Insurance    
-Business Insurance Production Operations    
-Hartford, CT  
-06/2016 - 08/2016 & 06/2017 - 08/2017
-    - Demonstrated strong programming and database management skills by developing a computer program utilizing C#, SQL, HTML, and CSS in Microsoft Visual Studio to query an MS SQL Server database, generating a daily report. Helped manager perform workload estimates.
-    - Collaborated with a team to investigate commercial off the shelf artificial intelligence products, developed a recommendation to propose to senior leadership.
-
-
+**Travelers Insurance** (*Hartford, CT*; 06/2016 - 08/2016 and 06/2017 - 08/2017) 
+- Demonstrated programming and database management skills by developing source code utilizing C#, SQL, HTML, and CSS in MS Visual Studio to query a MS SQL Server database. Created technical documentation.
+- Completed computer programming tasks in Java using Eclipse IDE and VBA in Microsoft InfoPath by writing source code requiring the access of SQL Server database to pull data.
+- Collaborated with team to analyze business requirements to evaluate commercial artificial intelligence products to recommend new technologies to senior leadership.
 
 ### :books: Education
 
