@@ -10,9 +10,12 @@ share-title: Carman Cater - Resume
 **Connecticut Department of Transportation** *(Newington, CT)*  
 Office of Geographic Information Systems and Data Analytics (01/2024 – Present) 
 Office of Roadway Information Systems (04/2023 – 01/2024)
-- Data processing & analysis using in-house tools, various transportation software, Excel, Power BI, ArcGIS Pro.
-- Data ETL using FME, Power Query, Python.
-- Automation using Python scripts and FME workspaces.
+- Implementing solutions using multiple data sources by performing extract, transform, load using feature manipulation engine. Requires the use of spatial database engine in MS SQL Server, REST APIs via HTTP GET, POST requests, creation of primary keys, conditional arguments, and logic/analytical skills.
+- Analyzing business requirements and participating in project planning sessions to define data tables and relationships to migrate data sets from the cloud into an enterprise Microsoft SQL Server environment.
+- Power Automate to populate data from a SharePoint list into a project form written in HTML and CSS to convert to PDF via a Python script calling a headless Chrome instance and looping through the files.
+- Data integration, processing, and analysis using various cloud software, Excel, Power BI, ESRI ArcGIS Pro, as well as MS Access SQL database to perform SQL queries.
+- Automation using Feature Manipulation Engine, Power Query, and Python scripts along with supporting technical documentation.
+
     
 **Information Technology Intern**  
 Travelers Insurance    
