@@ -50,10 +50,10 @@ Rate My Professor reviews: [Central CT State University](https://www.ratemyprofe
 
 **Central Connecticut State University** (*New Britain, CT*)  
 
-**M.A. - Mathematics**  
+**Master of Arts, Mathematics**  
 Minor in computer science; Information technology coursework.  
 
-**B.S. - Business Management**  
+**Bachelor of Science, Business Management**  
 Minor in mathematics; Computer science and management information systems coursework.
 
 ### :pencil2: Job Related Training
