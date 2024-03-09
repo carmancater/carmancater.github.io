@@ -14,7 +14,7 @@ Minor in computer science; Information technology coursework.
 **Bachelor of Science, Business Management**  
 Minor in mathematics; Computer science and management information systems coursework.
 
-### :office: Work Experience
+### :office: <span style="color: #C00000">Work Experience</span>
 
 **Transportation Planner Trainee**  
 **Connecticut Department of Transportation** (*Newington, CT*)  
@@ -44,7 +44,7 @@ Rate My Professor reviews: [Central CT State University](https://www.ratemyprofe
 - Supported and trained faculty members as well as students in the use of software and technology systems when requested.
 - Set up cloud software to manage student accounts while creating a connection between multiple learning platforms to integrate data from various sources.
 
-**Tutor & Graduate Assistant**  
+**Tutor and Graduate Assistant**  
 **Central Connecticut State University** (*New Britain, CT*; 08/2014 - 05/2018)  
 - Assisted university students across all levels of college mathematics and statistics courses by giving presentations as well as guiding them through Microsoft Excel statistical software packages.
 - Acquired effective leadership and communication skills, enhancing ability to convey complex information to non-technical audiences.
@@ -56,7 +56,7 @@ Rate My Professor reviews: [Central CT State University](https://www.ratemyprofe
 - Completed computer programming tasks in Java using Eclipse IDE and VBA in Microsoft InfoPath by writing source code requiring the access of SQL Server database to pull data.
 - Collaborated with team to analyze business requirements to evaluate commercial artificial intelligence products to recommend new technologies to senior leadership.
 
-### :pencil2: Job Related Training
+### :pencil2: <span style="color: #C00000">Job Related Training</span>
 
 **Kaggle:** Python, Pandas, Intermediate Machine Learning, Data Visualization, Feature Engineering, Advanced SQL, Intro to Deep Learning
 
@@ -66,16 +66,16 @@ Rate My Professor reviews: [Central CT State University](https://www.ratemyprofe
 
 **FHWA National Highway Institute:** Urban Travel Demand Forecasting
 
-### :page_facing_up: Professional Publications
+### :page_facing_up: <span style="color: #C00000">Professional Publications</span>
 
 Cater, C., Perdomo, O., & Valentine, A. (2021) *A Small Variation of the Circular Hodograph Theorem and the Best Elliptical Trajectory of the Planets.*  [https://arxiv.org/abs/2109.11664](https://arxiv.org/abs/2109.11664){:target="_blank"}
 
-### :computer: Technical Skills Summary
+### :computer: <span style="color: #C00000">Technical Skills Summary</span>
 
 **Programming languages:** SQL, Python, Java, C#, HTML, CSS, XML, JSON.
 
 **Software/Applications:** VS Code, Spyder, JupyterLab, Eclipse, Power BI, Microsoft 365 (Word, Excel, Access, PowerPoint etc.), ArcGIS Pro, Power Query, Power Automate, SharePoint, Feature Manipulation Engine (extract, transform, load software), MS SQL Server, MySQL.
 
-**Statistics:** Sampling techniques, mean, median, mode, range, standard deviation, variance, skewness, linear & multiple regression, hypothesis testing, confidence intervals, probability.
+**Statistics:** Sampling techniques, mean, median, mode, range, standard deviation, variance, skewness, linear and multiple regression, hypothesis testing, confidence intervals, probability.
 
 **Mathematics:** Calculus (differential, integral, multivariable/vector), discrete, linear algebra, abstract algebra, real analysis, topology, differential equations, geometry, differential geometry, complex analysis.
