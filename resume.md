@@ -16,7 +16,7 @@ Minor in mathematics; Computer science and management information systems course
 
 ### :office: <span style="color: #C00000">Work Experience</span>
 
-**Transportation Planner Trainee**  
+<span style="color: #004E9A">**Transportation Planner Trainee**</span>  
 **Connecticut Department of Transportation** (*Newington, CT*)  
 Office of Geographic Information Systems and Data Analytics (01/2024 – Present)  
 Office of Roadway Information Systems (04/2023 – 01/2024)  
@@ -26,13 +26,13 @@ Office of Roadway Information Systems (04/2023 – 01/2024)
 - Data integration, processing, and analysis using various cloud software, Excel, Power BI, ESRI ArcGIS Pro, as well as MS Access SQL database to perform SQL queries.
 - Automation using Feature Manipulation Engine, Power Query, and Python scripts along with supporting technical documentation.
 
-**Teaching Assistant**  
+<span style="color: #004E9A">**Teaching Assistant**</span>  
 **University of Massachusetts Amherst** (*Amherst, MA*; 09/2022 - 12/2022)  
 - Conducted and facilitated three weekly calculus discussion sections.
 - Passed rigorous advanced calculus and linear algebra qualifying exam demonstrating strong analytical and problem-solving skills.
 - Honed leadership, communication, and presentation skills by completing a four-month teaching seminar enabling effective delivery of complex information to diverse audiences.
 
-**Adjunct Mathematics and Statistics Professor**  
+<span style="color: #004E9A">**Adjunct Mathematics and Statistics Professor**</span>  
 **Capital Community College** (*Hartford, CT*; 09/2020 - 05/2022)  
 **University of Hartford** (*West Hartford, CT*; 08/2020 - 05/2022)  
 **Central Connecticut State University** (*New Britain, CT*; 08/2018 - 05/2022)  
@@ -45,38 +45,38 @@ Rate My Professor reviews: [Central CT State University](https://www.ratemyprofe
 - Supported and trained faculty members as well as students in the use of software and technology systems when requested.
 - Set up cloud software to manage student accounts while creating a connection between multiple learning platforms to integrate data from various sources.
 
-**Tutor and Graduate Assistant**  
+<span style="color: #004E9A">**Tutor and Graduate Assistant**</span>  
 **Central Connecticut State University** (*New Britain, CT*; 08/2014 - 05/2018)  
 - Assisted university students across all levels of college mathematics and statistics courses by giving presentations as well as guiding them through Microsoft Excel statistical software packages.
 - Acquired effective leadership and communication skills, enhancing ability to convey complex information to non-technical audiences.
 
 
-**Information Technology Intern**  
+<span style="color: #004E9A">**Information Technology Intern**</span>  
 **Travelers Insurance** (*Hartford, CT*; 06/2016 - 08/2016 and 06/2017 - 08/2017) 
 - Demonstrated programming and database management skills by developing source code utilizing C#, SQL, HTML, and CSS in MS Visual Studio to query a MS SQL Server database. Created technical documentation.
 - Completed computer programming tasks in Java using Eclipse IDE and VBA in Microsoft InfoPath by writing source code requiring the access of SQL Server database to pull data.
 - Collaborated with team to analyze business requirements to evaluate commercial artificial intelligence products to recommend new technologies to senior leadership.
 
+### :computer: <span style="color: #C00000">Technical Skills Summary</span>
+
+<span style="color: #004E9A">**Programming languages:**</span> SQL, Python, Java, C#, HTML, CSS, XML, JSON.
+
+<span style="color: #004E9A">**Software/Applications:**</span> VS Code, Spyder, JupyterLab, Eclipse, Power BI, Microsoft 365 (Word, Excel, Access, PowerPoint etc.), ArcGIS Pro, Power Query, Power Automate, SharePoint, Feature Manipulation Engine (extract, transform, load software), MS SQL Server, MySQL.
+
+<span style="color: #004E9A">**Statistics:**</span> Sampling techniques, mean, median, mode, range, standard deviation, variance, skewness, linear and multiple regression, hypothesis testing, confidence intervals, probability.
+
+<span style="color: #004E9A">**Mathematics:**</span> Calculus (differential, integral, multivariable/vector), discrete, linear algebra, abstract algebra, real analysis, topology, differential equations, geometry, differential geometry, complex analysis.
+
 ### :pencil2: <span style="color: #C00000">Job Related Training</span>
 
-**Kaggle:** Python, Pandas, Intermediate Machine Learning, Data Visualization, Feature Engineering, Advanced SQL, Intro to Deep Learning
+<span style="color: #004E9A">**Kaggle:**</span> Python, Pandas, Intermediate Machine Learning, Data Visualization, Feature Engineering, Advanced SQL, Intro to Deep Learning
 
-**Pragmatic Works:** Power BI Beginner to Pro Workshop, Data Modeling for Power BI
+<span style="color: #004E9A">**Pragmatic Works:**</span> Power BI Beginner to Pro Workshop, Data Modeling for Power BI
 
-**ESRI:** ArcGIS Online, GIS Basics, ArcGIS Pro, Map Projections, Coordinate Systems
+<span style="color: #004E9A">**ESRI:**</span> ArcGIS Online, GIS Basics, ArcGIS Pro, Map Projections, Coordinate Systems
 
-**FHWA National Highway Institute:** Urban Travel Demand Forecasting
+<span style="color: #004E9A">**FHWA National Highway Institute:**</span> Urban Travel Demand Forecasting
 
 ### :page_facing_up: <span style="color: #C00000">Professional Publications</span>
 
 Cater, C., Perdomo, O., & Valentine, A. (2021) *A Small Variation of the Circular Hodograph Theorem and the Best Elliptical Trajectory of the Planets.*  [https://arxiv.org/abs/2109.11664](https://arxiv.org/abs/2109.11664){:target="_blank"}
-
-### :computer: <span style="color: #C00000">Technical Skills Summary</span>
-
-**Programming languages:** SQL, Python, Java, C#, HTML, CSS, XML, JSON.
-
-**Software/Applications:** VS Code, Spyder, JupyterLab, Eclipse, Power BI, Microsoft 365 (Word, Excel, Access, PowerPoint etc.), ArcGIS Pro, Power Query, Power Automate, SharePoint, Feature Manipulation Engine (extract, transform, load software), MS SQL Server, MySQL.
-
-**Statistics:** Sampling techniques, mean, median, mode, range, standard deviation, variance, skewness, linear and multiple regression, hypothesis testing, confidence intervals, probability.
-
-**Mathematics:** Calculus (differential, integral, multivariable/vector), discrete, linear algebra, abstract algebra, real analysis, topology, differential equations, geometry, differential geometry, complex analysis.
