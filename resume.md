@@ -4,6 +4,16 @@ title: Resume
 share-title: Carman Cater - Resume
 ---
 
+### :books: Education
+
+**Central Connecticut State University** (*New Britain, CT*)  
+
+**Master of Arts, Mathematics**  
+Minor in computer science; Information technology coursework.  
+
+**Bachelor of Science, Business Management**  
+Minor in mathematics; Computer science and management information systems coursework.
+
 ### :office: Work Experience
 
 **Transportation Planner Trainee**  
@@ -45,16 +55,6 @@ Rate My Professor reviews: [Central CT State University](https://www.ratemyprofe
 - Demonstrated programming and database management skills by developing source code utilizing C#, SQL, HTML, and CSS in MS Visual Studio to query a MS SQL Server database. Created technical documentation.
 - Completed computer programming tasks in Java using Eclipse IDE and VBA in Microsoft InfoPath by writing source code requiring the access of SQL Server database to pull data.
 - Collaborated with team to analyze business requirements to evaluate commercial artificial intelligence products to recommend new technologies to senior leadership.
-
-### :books: Education
-
-**Central Connecticut State University** (*New Britain, CT*)  
-
-**Master of Arts, Mathematics**  
-Minor in computer science; Information technology coursework.  
-
-**Bachelor of Science, Business Management**  
-Minor in mathematics; Computer science and management information systems coursework.
 
 ### :pencil2: Job Related Training
 
