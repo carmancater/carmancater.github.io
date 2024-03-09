@@ -4,7 +4,7 @@ title: Resume
 share-title: Carman Cater - Resume
 ---
 
-### :books: Education
+### :books: <p style="color:#C00000";>Education</p>
 
 **Central Connecticut State University** (*New Britain, CT*)  
 
