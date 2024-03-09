@@ -8,10 +8,10 @@ share-title: Carman Cater - Resume
 
 **Central Connecticut State University** (*New Britain, CT*)  
 
-<span style="color: #004E9A">**Master of Arts, Mathematics**</span>
+<span style="color: #004E9A">**Master of Arts, Mathematics**</span>  
 Minor in computer science; Information technology coursework.  
 
-**Bachelor of Science, Business Management**  
+<span style="color: #004E9A">**Bachelor of Science, Business Management**</span>  
 Minor in mathematics; Computer science and management information systems coursework.
 
 ### :office: <span style="color: #C00000">Work Experience</span>
