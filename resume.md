@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Resume
-share-title: Carman Cater - Resume
+title: About Me
+share-title: Carman Cater - About Me
 ---
 
 ### :books: <span style="color: #C00000">Education</span>

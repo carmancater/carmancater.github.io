@@ -20,10 +20,10 @@ author: Carman Cater
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  Home: "index"
+  About Me: "resume"
   Projects: "Projects"
   Learning: "learning"
-  Resume: "resume"
   Media: "media"
 
 ################
