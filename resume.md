@@ -69,13 +69,13 @@ Rate My Professor reviews: [Central CT State University](https://www.ratemyprofe
 
 ### :pencil2: <span style="color: #C00000">Job Related Training</span>
 
-<span style="color: #004E9A">**Kaggle:**</span> Python, Pandas, Intermediate Machine Learning, Data Visualization, Feature Engineering, Advanced SQL, Intro to Deep Learning
+<span style="color: #004E9A">**Kaggle:**</span> [Python](https://www.kaggle.com/learn/certification/ccater/python){:target="_blank"}, [Pandas](https://www.kaggle.com/learn/certification/ccater/pandas){:target="_blank"}, [Intermediate Machine Learning](https://www.kaggle.com/learn/certification/ccater/intermediate-machine-learning){:target="_blank"}, [Data Visualization](https://www.kaggle.com/learn/certification/ccater/data-visualization){:target="_blank"}, [Feature Engineering](https://www.kaggle.com/learn/certification/ccater/feature-engineering){:target="_blank"}, [Advanced SQL](https://www.kaggle.com/learn/certification/ccater/advanced-sql){:target="_blank"}, [Intro to Deep Learning](https://www.kaggle.com/learn/certification/ccater/intro-to-deep-learning){:target="_blank"}, [Computer Vision](https://www.kaggle.com/learn/certification/ccater/computer-vision){:target="_blank"}
 
-<span style="color: #004E9A">**Pragmatic Works:**</span> Power BI Beginner to Pro Workshop, Data Modeling for Power BI
+<span style="color: #004E9A">**Pragmatic Works:**</span> [Power BI Beginner to Pro Workshop](https://myccsu-my.sharepoint.com/personal/carmancater_ccsu_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fcarmancater%5Fccsu%5Fedu%2FDocuments%2FPower%20BI%20Beginner%20to%20Pro%20Workshop%20%2D%20Carman%20Cater%2Epdf&parent=%2Fpersonal%2Fcarmancater%5Fccsu%5Fedu%2FDocuments&ga=1){:target="_blank"}, [Data Modeling for Power BI](https://myccsu-my.sharepoint.com/personal/carmancater_ccsu_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fcarmancater%5Fccsu%5Fedu%2FDocuments%2FData%20Modeling%20for%20Power%20BI%20Workshop%20%2D%20Carman%20Cater%2Epdf&parent=%2Fpersonal%2Fcarmancater%5Fccsu%5Fedu%2FDocuments&ga=1){:target="_blank"}
 
-<span style="color: #004E9A">**ESRI:**</span> ArcGIS Online, GIS Basics, ArcGIS Pro, Map Projections, Coordinate Systems
+<span style="color: #004E9A">**ESRI:**</span> [ArcGIS Online](https://www.esri.com/training/TrainingRecord/Certificate/niteoneuaf/63f397c9d7c0ad50296133a0/300){:target="_blank"}, [GIS Basics](https://www.esri.com/training/TrainingRecord/Certificate/carman.cater_CTDOT/64b6ac3a4a632523fe3afb64/240){:target="_blank"}, [ArcGIS Pro](https://www.esri.com/training/TrainingRecord/Certificate/carman.cater_CTDOT/64cbf5a958ad78436f8e0ea5/240){:target="_blank"}, [Map Projections](https://www.esri.com/training/TrainingRecord/Certificate/carman.cater_CTDOT/654a81cbc2e70746bde1b7de/300){:target="_blank"}, [Coordinate Systems](https://www.esri.com/training/TrainingRecord/Certificate/carman.cater_CTDOT/65b080cb498903513abf54e0/300){:target="_blank"}
 
-<span style="color: #004E9A">**FHWA National Highway Institute:**</span> Urban Travel Demand Forecasting
+<span style="color: #004E9A">**FHWA National Highway Institute:**</span> [Urban Travel Demand Forecasting](){:target="_blank"}
 
 ### :page_facing_up: <span style="color: #C00000">Professional Publications</span>
 
