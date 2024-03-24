@@ -75,7 +75,7 @@ Rate My Professor reviews: [Central CT State University](https://www.ratemyprofe
 
 <span style="color: #004E9A">**ESRI:**</span> [ArcGIS Online](https://www.esri.com/training/TrainingRecord/Certificate/niteoneuaf/63f397c9d7c0ad50296133a0/300){:target="_blank"}, [GIS Basics](https://www.esri.com/training/TrainingRecord/Certificate/carman.cater_CTDOT/64b6ac3a4a632523fe3afb64/240){:target="_blank"}, [ArcGIS Pro](https://www.esri.com/training/TrainingRecord/Certificate/carman.cater_CTDOT/64cbf5a958ad78436f8e0ea5/240){:target="_blank"}, [Map Projections](https://www.esri.com/training/TrainingRecord/Certificate/carman.cater_CTDOT/654a81cbc2e70746bde1b7de/300){:target="_blank"}, [Coordinate Systems](https://www.esri.com/training/TrainingRecord/Certificate/carman.cater_CTDOT/65b080cb498903513abf54e0/300){:target="_blank"}
 
-<span style="color: #004E9A">**FHWA National Highway Institute:**</span> [Urban Travel Demand Forecasting](){:target="_blank"}
+<span style="color: #004E9A">**FHWA National Highway Institute:**</span> [Urban Travel Demand Forecasting](https://www.nhi.fhwa.dot.gov/downloads/catalog/FHWA-NHI-152054.pdf){:target="_blank"}
 
 ### :page_facing_up: <span style="color: #C00000">Professional Publications</span>
 
