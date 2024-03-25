@@ -18,7 +18,7 @@ Minor in mathematics; Computer science and management information systems course
 
 <span style="color: #004E9A">**Transportation Planner Trainee**</span>  
 **Connecticut Department of Transportation** (*Newington, CT*)  
-Office of Geographic Information Systems and Data Analytics (01/2024 – Present)  
+Office of Enterprise GIS, Analytics, Data Management and Integration (01/2024 – Present)  
 Office of Roadway Information Systems (04/2023 – 01/2024)  
 - Implementing solutions using multiple data sources by performing extract, transform, load using feature manipulation engine. Requires the use of spatial database engine in MS SQL Server, REST APIs via HTTP GET, POST requests, creation of primary keys, conditional arguments, and logic/analytical skills.
 - Analyzing business requirements and participating in project planning sessions to define data tables and relationships to migrate data sets from the cloud into an enterprise Microsoft SQL Server environment.
