@@ -21,8 +21,8 @@ author: Carman Cater
 
 navbar-links:
   Home: "index"
-  About Me: "resume"
-  Projects: "Projects"
+  About Me: "aboutme"
+  Projects: "projects"
   Photos: "photos"
 
 ################
