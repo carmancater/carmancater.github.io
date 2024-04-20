@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Media
+title: Photos
 subtitle: 
-share-title: Carman Cater - Media
+share-title: Carman Cater - Photos
 ---
 
 ### :camera: Photos

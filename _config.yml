@@ -23,8 +23,7 @@ navbar-links:
   Home: "index"
   About Me: "resume"
   Projects: "Projects"
-  Learning: "learning"
-  Media: "media"
+  Photos: "photos"
 
 ################
 # --- Logo --- #
