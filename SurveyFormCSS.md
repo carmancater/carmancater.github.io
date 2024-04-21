@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Survey Form CSS
-subtitle: freeCodeCamp Project
+subtitle: Responsive web design freeCodeCamp project
 share-title: Carman Cater - Survey Form CSS
 share-description: Survey Form CSS
 ---

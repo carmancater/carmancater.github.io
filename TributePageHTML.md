@@ -14,7 +14,7 @@ share-description: Tribute Page HTML
         <meta name="viewport" content="device-width, initial-scale=1.0" />
         <meta name="description" content="Tribute Page" />
         <title>Tribute Page</title>
-        <link rel="stylesheet" href="tributepage.css" />
+        <link rel="stylesheet" href="/assets/css/tributepage.css" />
     </head>
     <body>
         <main id="main">
