@@ -6,7 +6,9 @@ share-title: Carman Cater - Java - Connect Four
 share-description: Connect Four
 ---
 
-<video width="332" width="668" controls>
+<video style="margin-left: auto;
+    margin-right: auto;
+    display: block" width="332" width="668" controls>
   <source src="/assets/video/ConnectFourTwiceSpeed.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
