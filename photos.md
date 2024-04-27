@@ -9,7 +9,7 @@ share-title: Carman Cater - Photos
 
 |            |            |            |       
 |:----------:|:----------:|:----------:|
-|<a href="/assets/img/meAtTrb.jpg"><img style="max-width:33%;" src="/assets/img/meAtTrb.jpg"></a>|<a href="/assets/img/meReadingOnCouch.jpg"><img style="max-width:33%;" src="/assets/img/meReadingOnCouch.jpg"></a>|<a href="/assets/img/meOnHikeView.jpg"><img style="max-width:33%;" src="/assets/img/meOnHikeView.jpg"></a>|    
+|<a href="/assets/img/meAtTrb.jpg"><img width="33%" src="/assets/img/meAtTrb.jpg"></a>|<a href="/assets/img/meReadingOnCouch.jpg"><img width="33%" src="/assets/img/meReadingOnCouch.jpg"></a>|<a href="/assets/img/meOnHikeView.jpg"><img width="33%" src="/assets/img/meOnHikeView.jpg"></a>|    
 |            |            |            |    
 |            |            |            |    
 |            |            |            |    
