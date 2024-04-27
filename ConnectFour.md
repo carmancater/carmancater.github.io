@@ -11,7 +11,9 @@ share-description: Connect Four
     display: block" width="382" height="220" controls>
   <source src="/assets/video/ConnectFourTwiceSpeed.mp4" type="video/mp4">
 Your browser does not support the video tag.
-</video>
+</video>  
+
+When I was first learning to code, this was a proud achievement of mine!
 
 ``` java
 import javafx.animation.FadeTransition;
