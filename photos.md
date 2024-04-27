@@ -7,9 +7,9 @@ share-title: Carman Cater - Photos
 
 ### :camera: Photos
 
-| Do         | please     | enjoy!     |       
+| Be         | kind       | today      |       
 |:----------:|:----------:|:----------:|
-|<a href="/assets/img/meAtTrb.jpg"><img width="100" src="/assets/img/meAtTrb.jpg"></a>|<a href="/assets/img/meReadingOnCouch.jpg"><img width="100" src="/assets/img/meReadingOnCouch.jpg"></a>|<a href="/assets/img/meOnHikeView.jpg"><img width="100" src="/assets/img/meOnHikeView.jpg"></a>|    
+|<a href="/assets/img/meAtTrb.jpg"><img width="200" src="/assets/img/meAtTrb.jpg"></a>|<a href="/assets/img/meReadingOnCouch.jpg"><img width="200" src="/assets/img/meReadingOnCouch.jpg"></a>|<a href="/assets/img/meOnHikeView.jpg"><img width="200" src="/assets/img/meOnHikeView.jpg"></a>|    
 |            |            |            |    
 |            |            |            |    
 |            |            |            |    
