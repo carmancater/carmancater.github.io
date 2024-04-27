@@ -26,3 +26,5 @@ share-title: Carman Cater - Projects
 - **Java**
     - 2016: [Connect Four](ConnectFour.md)
     - 2016: [Spinning Fan](SpinningFan.md)
+    - 2016: [Eye Hand Coordination Game](EyeHandCoordination.md)
+    - 2016: [Sierpinski Triangle](SierpinskiTriangle.md)
