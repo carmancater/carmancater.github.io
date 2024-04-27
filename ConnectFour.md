@@ -8,7 +8,7 @@ share-description: Connect Four
 
 <video style="margin-left: auto;
     margin-right: auto;
-    display: block" width="332" width="668" controls>
+    display: block" width="668" height="332" controls>
   <source src="/assets/video/ConnectFourTwiceSpeed.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
