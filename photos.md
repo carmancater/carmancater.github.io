@@ -14,7 +14,7 @@ share-title: Carman Cater - Photos
 |            |            |            |    
 |            |            |            |    
 |            |            |            |    
-|            |            |<a href="/assets/img/hartfordTravelers.JPEG"><img width="200" src="/assets/img/hartfordTravelers.JPEG"></a>|    
+|            |<a href="/assets/img/artTutoringGraffiti.jpg"><img width="200" src="/assets/img/artTutoringGraffiti.jpg"></a>|<a href="/assets/img/hartfordTravelers.JPEG"><img width="200" src="/assets/img/hartfordTravelers.JPEG"></a>|    
 |<a href="/assets/img/artWhiteBoardName.JPEG"><img width="200" src="/assets/img/artWhiteBoardName.JPEG"></a>|<a href="/assets/img/catOnMiddletownPorch.jpg"><img width="200" src="/assets/img/catOnMiddletownPorch.jpg"></a>|<a href="/assets/img/birdsHarborPark.jpg"><img width="200" src="/assets/img/birdsHarborPark.jpg"></a>|    
 |<a href="/assets/img/artInitialsPen.jpg"><img width="200" src="/assets/img/artInitialsPen.jpg"></a>|<a href="/assets/img/dogInMiddletownRoom.jpg"><img width="200" src="/assets/img/dogInMiddletownRoom.jpg"></a>|<a href="/assets/img/meAsKidHoldingThings.JPEG"><img width="200" src="/assets/img/meAsKidHoldingThings.JPEG"></a>|    
     
