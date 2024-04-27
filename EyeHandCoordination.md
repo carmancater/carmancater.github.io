@@ -8,7 +8,7 @@ share-description: Eye Hand Coordination Game
 
 <video style="margin-left: auto;
     margin-right: auto;
-    display: block" width="382" height="220" controls>
+    display: block" width="340" height=340" controls>
   <source src="/assets/video/EyeHandCoordinationGame.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>  
