@@ -7,7 +7,7 @@ share-description: Connect Four
 ---
 
 <video width="320" width="320" controls>
-  <source src="/assets/video/ConnectFourTwiceSpeed.mp4" type="video/mp4">
+  <source src="https://github.com/carmancater/carmancater.github.io/blob/main/video/ConnectFourTwiceSpeed.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
