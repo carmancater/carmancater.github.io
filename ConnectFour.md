@@ -7,7 +7,6 @@ share-description: Connect Four
 ---
 
 ``` java
-
 import javafx.animation.FadeTransition;
 import javafx.animation.ParallelTransition;
 import javafx.animation.Timeline;
