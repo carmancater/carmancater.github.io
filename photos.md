@@ -9,7 +9,7 @@ share-title: Carman Cater - Photos
 
 |            |            |            |       
 |:----------:|:----------:|:----------:|
-|<a href="/assets/img/meAtTrb.jpg"><img width="250" src="/assets/img/meAtTrb.jpg"></a>|            |            |    
+|<a href="/assets/img/meAtTrb.jpg"><img  src="/assets/img/meAtTrb.jpg"></a>|            |            |    
 |            |            |            |    
 |            |            |            |    
 |            |            |            |    
