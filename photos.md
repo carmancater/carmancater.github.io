@@ -16,7 +16,7 @@ share-title: Carman Cater - Photos
 |            |            |            |    
 |            |            |            |    
 |            |            |            |    
-|            |            |            |    
+|            |            |<a href="/assets/img/meAsKidHoldingThings.JPEG"><img width="200" src="/assets/img/meAsKidHoldingThings.JPEG"></a>|    
     
 ### :microphone: Audio
 - 2020: Hit Me With Your Car(man)  
