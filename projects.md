@@ -25,3 +25,4 @@ share-title: Carman Cater - Projects
 
 - **Java**
     - 2016: [Connect Four](ConnectFour.md)
+    - 2016: [Spinning Fan](SpinningFan.md)
