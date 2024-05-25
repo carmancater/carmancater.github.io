@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Technical Documentation HTML
-subtitle: Responsive web design freeCodeCamp project
+subtitle: Responsive web design project
 share-title: Carman Cater - Technical Documentation HTML
 share-description: Technical Documentation HTML
 ---

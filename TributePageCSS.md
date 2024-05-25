@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tribute Page CSS
-subtitle: Responsive web design freeCodeCamp project
+subtitle: Responsive web design project
 share-title: Carman Cater - Tribute Page CSS
 share-description: Tribute Page CSS
 ---

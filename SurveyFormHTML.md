@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Survey Form HTML
-subtitle: Responsive web design freeCodeCamp project
+subtitle: Responsive web design project
 share-title: Carman Cater - Survey Form HTML
 share-description: Survey Form HTML
 ---
@@ -17,7 +17,7 @@ share-description: Survey Form HTML
   </head>
 
   <body>
-    <h1 id="title">freeCodeCamp Survey Form</h1>
+    <h1 id="title">Survey Form</h1>
     <p id="description" class="description">Thank you for taking the time to help us improve the platform</p>
     
     <form id="survey-form" method="post" action='https://register-demo.freecodecamp.org'>
@@ -35,11 +35,11 @@ share-description: Survey Form HTML
             <option value="5">Other</option>
           </select>
         </label>
-        <label>Would you recommend freeCodeCamp to a friend?</label>
+        <label>Would you recommend us to a friend?</label>
         <label for="defrecommend"><input id="defrecommend" type="radio" name="recommend-friend" class="inline" value="definitely" checked />Definitely</label>
         <label for="mayberecommend"><input id="mayberecommend" type="radio" name="recommend-friend" class="inline" value="maybe" />Maybe</label>
         <label for="nsrecommend"><input id="nsrecommend" type="radio" name="recommend-friend" class="inline" value="not sure" />Not Sure</label>
-         <label for="dropdown2">What is your favorite feature of freeCodeCamp?
+         <label for="dropdown2">What is your favorite feature?
           <select id="dropdown2" name="dropdown2">
             <option value="">Select an option</option>
             <option value="1">Challenges</option>
