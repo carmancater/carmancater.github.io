@@ -54,7 +54,6 @@ nav > ul {
     width: 65vw;
     display: flex;
     flex-direction: row;
-    /* justify-content: space-around; */
     justify-content: end;
 }
 
@@ -127,7 +126,6 @@ li > a:hover {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    height: 85px;
     width: 100%;
     padding: 4px 20px;
 }
@@ -230,6 +228,11 @@ footer > span {
     }
     .product {
         width: 60vw
+    }
+    #customertestimonial > iframe {
+        max-width: 500px;
+        width: auto;
+        height: auto;
     }
 }
 ```
