@@ -6,6 +6,8 @@ share-title: Carman Cater - Projects
 ---
 
 - **HTML/CSS**
+    - 2024: [Personal Portfolio](personalportfolio.html){:target="_blank"}
+        - [View HTML](personalportfolioHTML.md), [View CSS](personalportfolioCSS.md)
     - 2024: [Product Landing Page](productlandingpage.html){:target="_blank"}
         - [View HTML](productlandingpageHTML.md), [View CSS](productlandingpageCSS.md)
     - 2024: [Technical Documentation](technicaldocumentation.html){:target="_blank"}
