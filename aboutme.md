@@ -69,6 +69,8 @@ Rate My Professor reviews: [Central CT State University](https://www.ratemyprofe
 
 ### :pencil2: <span style="color: #C00000">Job Related Training</span>
 
+<span style="color: #004E9A">**freeCodeCamp:**</span> [Responsive Web Design (HTML/CSS)](https://www.freecodecamp.org/certification/niteoneuaf/responsive-web-design){:target="_blank"}
+
 <span style="color: #004E9A">**Kaggle:**</span> [Python](https://www.kaggle.com/learn/certification/ccater/python){:target="_blank"}, [Pandas](https://www.kaggle.com/learn/certification/ccater/pandas){:target="_blank"}, [Intermediate Machine Learning](https://www.kaggle.com/learn/certification/ccater/intermediate-machine-learning){:target="_blank"}, [Data Visualization](https://www.kaggle.com/learn/certification/ccater/data-visualization){:target="_blank"}, [Feature Engineering](https://www.kaggle.com/learn/certification/ccater/feature-engineering){:target="_blank"}, [Advanced SQL](https://www.kaggle.com/learn/certification/ccater/advanced-sql){:target="_blank"}, [Intro to Deep Learning](https://www.kaggle.com/learn/certification/ccater/intro-to-deep-learning){:target="_blank"}, [Computer Vision](https://www.kaggle.com/learn/certification/ccater/computer-vision){:target="_blank"}
 
 <span style="color: #004E9A">**Pragmatic Works:**</span> [Power BI Beginner to Pro Workshop](https://carmancater.github.io/assets/pdf/Power BI Beginner to Pro Workshop - Carman Cater.pdf){:target="_blank"}, [Data Modeling for Power BI](https://carmancater.github.io/assets/pdf/Data Modeling for Power BI Workshop - Carman Cater.pdf){:target="_blank"}
