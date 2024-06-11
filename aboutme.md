@@ -20,11 +20,11 @@ Minor in mathematics; Computer science and management information systems course
 **Connecticut Department of Transportation** (*Newington, CT*)  
 Office of GIS, Analytics, Data Management and Integration (01/2024 – Present)  
 Office of Roadway Information Systems (04/2023 – 01/2024)  
-- Implementing solutions using multiple data sources by performing extract, transform, load using feature manipulation engine. Requires the use of spatial database engine in MS SQL Server, REST APIs via HTTP GET, POST requests, creation of primary keys, conditional arguments, and logic/analytical skills.
-- Analyzing business requirements and participating in project planning sessions to define data tables and relationships to migrate data sets from the cloud into an enterprise Microsoft SQL Server environment.
-- Power Automate to populate data from a SharePoint list into a project form written in HTML and CSS to convert to PDF via a Python script calling a headless Chrome instance and looping through the files.
-- Data integration, processing, and analysis using various cloud software, Excel, Power BI, ESRI ArcGIS Pro, as well as MS Access SQL database to perform SQL queries.
-- Automation using Feature Manipulation Engine, Power Query, and Python scripts along with supporting technical documentation.
+- Implement solutions using ETL processes with multiple data sources, utilizing MS SQL Server spatial database, REST APIs, primary keys, and conditional logic.
+- Analyze business requirements, participate in project planning, and define data tables for cloud-to-enterprise data migration in Microsoft SQL Server.
+- Utilize Power Automate to transfer SharePoint list data to HTML/CSS project forms, converting to PDF via a Python script; automate tasks using ETL software, Power Query, and Python scripts with technical documentation.
+- Integrate, process, and analyze data with cloud software, Excel, Power BI, ESRI ArcGIS Pro, and MS Access SQL database.
+- Develop enterprise-grade Power BI dashboards for Traffic Monitoring, ensuring complete development and quality assurance; create Python scripts for automated data health checks in SQL Server.
 
 <span style="color: #004E9A">**Teaching Assistant**</span>  
 **University of Massachusetts Amherst** (*Amherst, MA*; 09/2022 - 12/2022)  
