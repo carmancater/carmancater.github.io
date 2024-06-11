@@ -24,7 +24,7 @@ Office of Roadway Information Systems (04/2023 – 01/2024)
 - Analyze business requirements, participate in project planning, and define data tables for cloud-to-enterprise data migration in Microsoft SQL Server.
 - Utilize Power Automate to transfer SharePoint list data to HTML/CSS project forms, converting to PDF via a Python script; automate tasks using ETL software, Power Query, and Python scripts with technical documentation.
 - Integrate, process, and analyze data with cloud software, Excel, Power BI, ESRI ArcGIS Pro, and MS Access SQL database.
-- Develop enterprise-grade Power BI dashboards for Traffic Monitoring, ensuring complete development and quality assurance; create Python scripts for automated data health checks in SQL Server.
+- Develop enterprise-grade Power BI dashboard for Traffic Monitoring, ensuring complete development and quality assurance; create Python scripts for automated data health checks in SQL Server.
 
 <span style="color: #004E9A">**Teaching Assistant**</span>  
 **University of Massachusetts Amherst** (*Amherst, MA*; 09/2022 - 12/2022)  
