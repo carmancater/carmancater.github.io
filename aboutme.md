@@ -17,7 +17,8 @@ Minor in mathematics; Computer science and management information systems course
 ### :office: <span style="color: #C00000">Work Experience</span>
 
 <span style="color: #004E9A">**Information Technology Analyst 2**</span>  
-**Connecticut Department of Transportation** (*Newington, CT*; 06/2024 - Present)
+**Connecticut Department of Transportation** (*Newington, CT*; 06/2024 - Present)  
+Division of Technology Services, Cloud Support Unit
 
 <span style="color: #004E9A">**Transportation Planner Trainee**</span>  
 **Connecticut Department of Transportation** (*Newington, CT*)  
