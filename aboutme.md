@@ -20,11 +20,11 @@ Minor in mathematics; Computer science and management information systems course
 **Connecticut Department of Transportation** (*Newington, CT*)  
 Office of GIS, Analytics, Data Management and Integration (01/2024 – Present)  
 Office of Roadway Information Systems (04/2023 – 01/2024)  
-- Implement solutions using ETL processes with multiple data sources, utilizing MS SQL Server spatial database, REST APIs, primary keys, and conditional logic.
-- Analyze business requirements, participate in project planning, and define data tables for cloud-to-enterprise data migration in Microsoft SQL Server.
-- Utilize Power Automate to transfer SharePoint list data to HTML/CSS project forms, converting to PDF via a Python script; automate tasks using ETL software, Power Query, and Python scripts with technical documentation.
-- Integrate, process, and analyze data with cloud software, Excel, Power BI, ESRI ArcGIS Pro, and MS Access SQL database.
-- Develop enterprise-grade Power BI dashboard for Traffic Monitoring, ensuring complete development and quality assurance; create Python scripts for automated data health checks in SQL Server.
+- Implemented solutions using ETL processes with multiple data sources, utilizing MS SQL Server spatial database, REST APIs, primary keys, and conditional logic.
+- Analyzed business requirements, participated in project planning, and defined data tables for cloud-to-enterprise data migration in Microsoft SQL Server.
+- Utilized Power Automate to transfer SharePoint list data to HTML/CSS project forms, converting to PDF via a Python script; automated tasks using ETL software, Power Query, and Python scripts with technical documentation.
+- Integrated, processed, and analyzed data with cloud software, Excel, Power BI, ESRI ArcGIS Pro, and MS Access SQL database.
+- Developed enterprise-grade Power BI dashboard for Traffic Monitoring, ensuring complete development and quality assurance; created Python scripts for automated data health checks in SQL Server.
 
 <span style="color: #004E9A">**Teaching Assistant**</span>  
 **University of Massachusetts Amherst** (*Amherst, MA*; 09/2022 - 12/2022)  
