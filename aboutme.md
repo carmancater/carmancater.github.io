@@ -16,9 +16,12 @@ Minor in mathematics; Computer science and management information systems course
 
 ### :office: <span style="color: #C00000">Work Experience</span>
 
+<span style="color: #004E9A">**Information Technology Analyst 2**</span>  
+**Connecticut Department of Transportation** (*Newington, CT*; 06/2024 - Present)
+
 <span style="color: #004E9A">**Transportation Planner Trainee**</span>  
 **Connecticut Department of Transportation** (*Newington, CT*)  
-Office of GIS, Analytics, Data Management and Integration (01/2024 – Present)  
+Office of GIS, Analytics, Data Management and Integration (01/2024 – 06/2024)  
 Office of Roadway Information Systems (04/2023 – 01/2024)  
 - Implemented solutions using ETL processes with multiple data sources, utilizing MS SQL Server spatial database, REST APIs, primary keys, and conditional logic.
 - Analyzed business requirements, participated in project planning, and defined data tables for cloud-to-enterprise data migration in Microsoft SQL Server.
