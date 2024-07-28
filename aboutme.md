@@ -73,7 +73,7 @@ Rate My Professor reviews: [Central CT State University](https://www.ratemyprofe
 
 ### :pencil2: <span style="color: #C00000">Job Related Training</span>
 
-<span style="color: #004E9A">**Microsoft:**</span> [Azure Fundamentals](https://learn.microsoft.com/en-us/users/carmancater/){:target="_blank"}, [Power Platform Fundamentals](https://learn.microsoft.com/en-us/users/carmancater/){:target="_blank"}, [Basic Concepts of Cybersecurity](https://learn.microsoft.com/en-us/users/carmancater/){:target="_blank"}
+<span style="color: #004E9A">**Microsoft:**</span> [Azure Fundamentals](https://learn.microsoft.com/en-us/users/carmancater/transcript/dg8qqte0kn16o9j?tab=tab-learning-paths){:target="_blank"}, [Power Platform Fundamentals](https://learn.microsoft.com/en-us/users/carmancater/transcript/dg8qqte0kn16o9j?tab=tab-learning-paths){:target="_blank"}, [Basic Concepts of Cybersecurity](https://learn.microsoft.com/en-us/users/carmancater/transcript/dg8qqte0kn16o9j?tab=tab-learning-paths){:target="_blank"}
 
 <span style="color: #004E9A">**freeCodeCamp:**</span> [Responsive Web Design (HTML/CSS)](https://www.freecodecamp.org/certification/niteoneuaf/responsive-web-design){:target="_blank"}
 
