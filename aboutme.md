@@ -8,10 +8,10 @@ share-title: Carman Cater - About Me
 
 **Central Connecticut State University** (*New Britain, CT*)  
 
-<span style="color: #004E9A">**Master of Arts, Mathematics**</span>  
+<span style="color: #004E9A">**Master of Arts, Mathematics**</span> (12/2020)  
 Minor in computer science; Information technology coursework.  
 
-<span style="color: #004E9A">**Bachelor of Science, Business Management**</span>  
+<span style="color: #004E9A">**Bachelor of Science, Business Management**</span> (05/2017)  
 Minor in mathematics; Computer science and management information systems coursework.
 
 ### :office: <span style="color: #C00000">Work Experience</span>
