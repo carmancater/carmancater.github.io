@@ -18,6 +18,10 @@ body {
     justify-content: center;
 }
 
+main {
+    margin: 30px;
+}
+
 h1 {
     text-align: center;
     margin-top: 0px;

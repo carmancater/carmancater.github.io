@@ -1,0 +1,128 @@
+---
+layout: page
+title: Product Landing Page HTML
+subtitle: Responsive web design project
+share-title: Carman Cater - Product Landing Page HTML
+share-description: Product Landing Page HTML
+---
+
+``` css
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Product Landing Page</title>
+        <link rel="stylesheet" href="productlandingpage.css" />
+    </head>
+    <body>
+        <main>
+            <header id="header">
+                <div class="imagelogo">
+                    <img id="header-img"
+                    src="https://carmancater.github.io/assets/img/artWhiteBoardName.JPEG"
+                    alt="company logo"
+                    />
+                </div>
+                <nav id="nav-bar">
+                    <ul>
+                        <li>
+                            <a class="nav-link" href="#information">Information</a>
+                        </li>
+                        <li>
+                            <a class="nav-link" href="#customertestimonial">Customer Testimonial</a>
+                        </li>
+                        <li>
+                            <a class="nav-link" href="#pricing">Pricing</a>
+                        </li>
+                    </ul>
+                </nav>
+            </header>
+            <section id="top-form">
+                <h2>Fresh, home-baked code delivered straight to your door</h2>
+                <form id="form" action="https://www.freecodecamp.com/email-submit">
+                    <input id="email" name="email" type="email" placeholder="Enter your email address"
+                    required>
+                    <input id="submit" type="submit" value="Submit" class="btn">
+                </form>
+            </section>
+            <div class="container">
+                <section id="information">
+                    <div class="info">
+                        <h2>Premium Code</h2>
+                        <p>
+                            Code written by the team is of the highest quality. 
+                            Satisfaction guaranteed or your money back!
+                        </p>
+                    </div>
+                    <div class="info">
+                        <h2>Fast Production</h2>
+                        <p>
+                            We make sure you receive your code as soon as we have finished making it.
+                            Many hands make light work is our motto. Staffed with 1000+ programmers working tirelessly.
+                        </p>
+                    </div>
+                    <div class="info">
+                        <h2>Unlimited Support</h2>
+                        <p>
+                            For every purchase, you receive lifetime support through our AI chat bot!
+                            No need for human intervention!
+                        </p>
+                    </div>
+                </section>
+                <section id="customertestimonial">
+                    <iframe id="video" height="300"
+                    src="https://www.youtube.com/embed/2eLe7uz-7CM?si=SoacpT8GRYPCxRI0"
+                    frameborder="0" allow="fullscreen"></iframe>
+                </section>
+                <section id="pricing">
+                    <div class="product">
+                        <div class="productitem">One Code</div>
+                        <h2>$100</h2>
+                        <ul>
+                            <li>La La had a lamb.</li>
+                            <li>The lamb had a La La.</li>
+                            <li>La La was born long ago.</li>
+                            <li>Who is La La?</li>
+                            <li>Keep thinking...</li>
+                        </ul>
+                        <button class="btn">Purchase</button>
+                    </div>
+                    <div class="product">
+                        <div class="productitem">Two Code</div>
+                        <h2>$199.99</h2>
+                        <ul>
+                            <li><em>Save a penny!</em></li>
+                            <li>Bug was a boo.</li>
+                            <li>Then boo had a loo.</li>
+                            <li>Loo knew La La.</li>
+                            <li>Who was Bug?</li>
+                        </ul>
+                        <button class="btn">Purchase</button>
+                    </div>
+                    <div class="product">
+                        <div class="productitem">Three Code</div>
+                        <h2>$299.98</h2>
+                        <ul>
+                            <li><em>Save two pennies!</em></li>
+                            <li>Wind was wow.</li>
+                            <li>Water is cool.</li>
+                            <li>Fire was fun.</li>
+                            <li>Earth is great.</li>
+                        </ul>
+                        <button class="btn">Purchase</button>
+                    </div>
+                </section>
+            </div>
+            <footer>
+                <ul>
+                    <li>Privacy</li>
+                    <li>Terms</li>
+                    <li>Contact</li>
+                </ul>
+                <span>Copyright 2024, Carman Cater</span>
+            </footer>
+        </main>
+    </body>
+</html>
+```
