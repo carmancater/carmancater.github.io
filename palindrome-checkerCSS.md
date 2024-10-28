@@ -21,7 +21,7 @@ body {
     background-color: var(--csc-blue);
     color: var(--light-grey);
     display: flex; 
-    align-items: center;    
+    align-items: flex-start;    
     height: 100vh;         
     margin: 0;            
     justify-content: center;
@@ -33,12 +33,12 @@ main {
 
 h1 {
     text-align: center;
-    margin-top: 0px;
+    margin-top: 10px;
 }
 
 .header  h1 {
     font-size: 50px;
-    margin-bottom: 0;
+    margin: 0px;
 }
 
 #main-area {
@@ -92,6 +92,7 @@ h1 {
     color: var(--light-grey);
     padding: 10px;
     margin-top: 30px;
+    margin-bottom: 10px;
     border-radius: 15px;
     font-size: 22px;
 }
