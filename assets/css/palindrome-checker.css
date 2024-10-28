@@ -12,7 +12,7 @@ body {
     background-color: var(--csc-blue);
     color: var(--light-grey);
     display: flex; 
-    align-items: center;    
+    align-items: flex-start;    
     height: 100vh;         
     margin: 0;            
     justify-content: center;
@@ -92,10 +92,4 @@ margin-bottom: 10px;
     text-align: center;
     font-size: 22px;
     margin: 5px 0px 20px 0px;
-}
-
-@media screen and (max-width: 375px) {
-    body {
-      align-items: flex-start;
-    }
 }
