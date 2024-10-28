@@ -5,6 +5,9 @@ subtitle: Cool stuff to look at inside!
 share-title: Carman Cater - Projects
 ---
 
+- **JavaScript**
+    - 2024: [Palindrome Checker](palindrome-checker.html){:target="_blank"}
+        - [View JavaScript](palindrome-checkerJS.md), [View HTML](palindrome-checkerHTML.md), [View CSS](palindrome-checkerCSS.md)
 - **HTML/CSS**
     - 2024: [Personal Portfolio](personalportfolio.html){:target="_blank"}
         - [View HTML](personalportfolioHTML.md), [View CSS](personalportfolioCSS.md)
