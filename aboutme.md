@@ -37,12 +37,12 @@ Office of Roadway Information Systems (04/2023 – 01/2024)
 - Honed leadership, communication, and presentation skills by completing a four-month teaching seminar enabling effective delivery of complex information to diverse audiences.
 
 <span style="color: #004E9A">**Adjunct Mathematics and Statistics Professor**</span>  
-**Capital Community College** (*Hartford, CT*; 09/2020 - 05/2022)  
+**CT State Capital** (*Hartford, CT*; 09/2020 - 05/2022)  
 **University of Hartford** (*West Hartford, CT*; 08/2020 - 05/2022)  
 **Central Connecticut State University** (*New Britain, CT*; 08/2018 - 05/2022)  
 **Goodwin University** (*East Hartford*; 09/2019 - 04/2020)
 
-Rate My Professor reviews: [Central CT State University](https://www.ratemyprofessors.com/professor/2398329){:target="_blank"}, [University of Hartford](https://www.ratemyprofessors.com/professor/2619271){:target="_blank"}, [Capital Community College](https://www.ratemyprofessors.com/professor/2619272){:target="_blank"}, [Goodwin University](https://www.ratemyprofessors.com/professor/2523642){:target="_blank"}
+Rate My Professor reviews: [Central CT State University](https://www.ratemyprofessors.com/professor/2398329){:target="_blank"}, [University of Hartford](https://www.ratemyprofessors.com/professor/2619271){:target="_blank"}, [CT State Capital](https://www.ratemyprofessors.com/professor/2619272){:target="_blank"}, [Goodwin University](https://www.ratemyprofessors.com/professor/2523642){:target="_blank"}
 - Courses taught: principles of statistics, linear algebra, contemporary math, intermediate algebra, elementary algebra, pre-algebra.        
 - Delivered instruction in statistical methods and graph theory including sampling techniques, mean, median, mode, standard deviation, variance, range, skewness, simple linear regression, hypothesis testing, confidence intervals, probability, networks, and trees.
 - Use and troubleshooting of technology including desktop and laptop computers, overhead and tripod cameras, built-in and wireless microphones, overhead and camera projectors, to deliver live content to students.
