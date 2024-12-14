@@ -6,6 +6,8 @@ share-title: Carman Cater - Projects
 ---
 
 - **JavaScript**
+    - 2024: [Roman Numeral Converter](roman-numeral-converter.html){:target="_blank"}
+        - [View JavaScript](roman-numeral-converterJS.md), [View HTML](roman-numeral-converterHTML.md), [View CSS](roman-numeral-converterCSS.md)
     - 2024: [Palindrome Checker](palindrome-checker.html){:target="_blank"}
         - [View JavaScript](palindrome-checkerJS.md), [View HTML](palindrome-checkerHTML.md), [View CSS](palindrome-checkerCSS.md)
 - **HTML/CSS**
