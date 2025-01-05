@@ -4,74 +4,76 @@ title: About Me
 share-title: Carman Cater - About Me
 ---
 
-### :books: <span style="color: #C00000">Education</span>
+### :books: <span style="color: #C00000">EDUCATION</span>
 
-**Central Connecticut State University** (*New Britain, CT*)  
+*Central Connecticut State University, New Britain, CT*  
 
-<span style="color: #004E9A">**Master of Arts, Mathematics**</span> (12/2020)  
-GPA: 3.96. Minor in computer science; Information technology coursework.  
+<span style="color: #004E9A">**Master of Arts, Mathematics**</span> (Dec 2020)  
+GPA: 3.96. Minor in computer science; information technology coursework.  
 
-<span style="color: #004E9A">**Bachelor of Science, Business Management**</span> (05/2017)  
-GPA: 3.85. Minor in mathematics; Computer science and management information systems coursework.
+<span style="color: #004E9A">**Bachelor of Science, Business Management**</span> (May 2017)  
+GPA: 3.85. Minor in mathematics; computer science and management information systems coursework.
 
-### :office: <span style="color: #C00000">Work Experience</span>
+### :office: <span style="color: #C00000">WORK EXPERIENCE</span>
 
-<span style="color: #004E9A">**Information Technology Analyst 2**</span>  
-**Connecticut Department of Transportation** (*Newington, CT*; 06/2024 - Present)  
-Division of Technology Services - Cloud Support Unit
+<span style="color: #004E9A">**Information Technology Analyst 2**</span> (Jun 2024 - Present)   
+*Connecticut Department of Transportation, Newington, CT*  
+*Division of Technology Services, Cloud Support Unit*  
+- Building enterprise IT solutions, including AI project (Python, Azure) using RAG architecture and agents, API proof-of-concept (ASP.NET Core, Entity Framework, SQL Server), and rebuilding of legacy applications using modern software.
+- Manage Azure cloud subscriptions, resource groups, and resources including SQL databases, web apps, cognitive search, bots, OpenAI, and machine learning studio.
+- Troubleshoot production issues related to ETLs, ArcGIS Enterprise, and server deployments supporting various applications.
+- Administer SQL Server/SSMS tasks, including SQL Agent jobs, stored procedures, views, tables, and high-availability clusters.
+- Support enterprise systems like ArcGIS, Power BI, SharePoint, and Feature Manipulation Engine, assisting with deployments, governance, and user solutions.
 
-<span style="color: #004E9A">**Transportation Planner Trainee**</span>  
-**Connecticut Department of Transportation** (*Newington, CT*)  
-Office of GIS, Analytics, Data Management and Integration (01/2024 – 06/2024)  
-Office of Roadway Information Systems (04/2023 – 01/2024)  
+
+<span style="color: #004E9A">**Transportation Planner Trainee**</span>  (Apr 2023 – Jun 2024)  
+*Connecticut Department of Transportation, Newington, CT*  
+*Office of Enterprise GIS, Analytics, Data Management and Integration*  
+*Office of Roadway Information Systems*
 - Implemented solutions using ETL processes with multiple data sources, utilizing MS SQL Server spatial database, REST APIs, primary keys, and conditional logic.
 - Analyzed business requirements, participated in project planning, and defined data tables for cloud-to-enterprise data migration in Microsoft SQL Server.
-- Utilized Power Automate to transfer SharePoint list data to HTML/CSS project forms, converting to PDF via a Python script; automated tasks using ETL software, Power Query, and Python scripts with technical documentation.
+- Utilized Power Automate to transfer SharePoint list data to HTML/CSS project forms, converting to PDF via a Python script; automated tasks using ETL software, Power Query, and Python scripts with technical documentation; created Python scripts for automated data health checks in SQL Server.
 - Integrated, processed, and analyzed data with cloud software, Excel, Power BI, ESRI ArcGIS Pro, and MS Access SQL database.
-- Developed enterprise-grade Power BI dashboard for Traffic Monitoring, ensuring complete development and quality assurance; created Python scripts for automated data health checks in SQL Server.
+- Developed enterprise-grade Power BI dashboard for Traffic Monitoring, ensuring complete development and quality assurance.
 
-<span style="color: #004E9A">**Teaching Assistant**</span>  
-**University of Massachusetts Amherst** (*Amherst, MA*; 09/2022 - 12/2022)  
+<span style="color: #004E9A">**Teaching Assistant**</span> (Sept 2022 – Dec 2022)  
+*University of Massachusetts Amherst, Amherst, MA* 
 - Conducted and facilitated three weekly calculus discussion sections.
 - Passed rigorous advanced calculus and linear algebra qualifying exam demonstrating strong analytical and problem-solving skills.
 - Honed leadership, communication, and presentation skills by completing a four-month teaching seminar enabling effective delivery of complex information to diverse audiences.
 
 <span style="color: #004E9A">**Adjunct Mathematics and Statistics Professor**</span>  
-**CT State Capital** (*Hartford, CT*; 09/2020 - 05/2022)  
-**University of Hartford** (*West Hartford, CT*; 08/2020 - 05/2022)  
-**Central Connecticut State University** (*New Britain, CT*; 08/2018 - 05/2022)  
-**Goodwin University** (*East Hartford*; 09/2019 - 04/2020)
+*CT State Capital, Hartford, CT* (Sept 2020 – May 2022)  
+*University of Hartford, West Hartford, CT* (Aug 2020 – May 2022)  
+*Central Connecticut State University, New Britain, CT* (Aug 2018 – May 2022)  
+*Goodwin University, East Hartford, CT* (Sept 2019 – Apr 2020)
 
 Rate My Professor reviews: [Central CT State University](https://www.ratemyprofessors.com/professor/2398329){:target="_blank"}, [University of Hartford](https://www.ratemyprofessors.com/professor/2619271){:target="_blank"}, [CT State Capital](https://www.ratemyprofessors.com/professor/2619272){:target="_blank"}, [Goodwin University](https://www.ratemyprofessors.com/professor/2523642){:target="_blank"}
-- Courses taught: principles of statistics, linear algebra, contemporary math, intermediate algebra, elementary algebra, pre-algebra.        
-- Delivered instruction in statistical methods and graph theory including sampling techniques, mean, median, mode, standard deviation, variance, range, skewness, simple linear regression, hypothesis testing, confidence intervals, probability, networks, and trees.
-- Use and troubleshooting of technology including desktop and laptop computers, overhead and tripod cameras, built-in and wireless microphones, overhead and camera projectors, to deliver live content to students.
-- Supported and trained faculty members as well as students in the use of software and technology systems when requested.
-- Set up cloud software to manage student accounts while creating a connection between multiple learning platforms to integrate data from various sources.
+- Courses: linear algebra, principles of statistics, contemporary math, intermediate algebra, elementary algebra, pre-algebra.        
+- Taught core topics in linear algebra, including vector spaces, linear transformations, matrix operations, determinants, eigenvalues, eigenvectors, and solving systems of linear equations.
+- Delivered instruction in statistical methods and graph theory, including sampling techniques, mean, median, mode, standard deviation, variance, range, skewness, simple linear regression, hypothesis testing, confidence intervals, probability, networks, and trees.
 
-<span style="color: #004E9A">**Tutor and Graduate Assistant**</span>  
-**Central Connecticut State University** (*New Britain, CT*; 08/2014 - 05/2018)  
+<span style="color: #004E9A">**Tutor and Graduate Assistant**</span> (Aug 2014 – May 2018 )  
+*Central Connecticut State University, New Britain, CT* 
 - Assisted university students across all levels of college mathematics and statistics courses by giving presentations as well as guiding them through Microsoft Excel statistical software packages.
 - Acquired effective leadership and communication skills, enhancing ability to convey complex information to non-technical audiences.
 
 
-<span style="color: #004E9A">**Information Technology Intern**</span>  
-**Travelers Insurance** (*Hartford, CT*; 06/2016 - 08/2016 and 06/2017 - 08/2017) 
-- Demonstrated programming and database management skills by developing source code utilizing C#, SQL, HTML, and CSS in MS Visual Studio to query a MS SQL Server database. Created technical documentation.
-- Completed computer programming tasks in Java using Eclipse IDE and VBA in Microsoft InfoPath by writing source code requiring the access of SQL Server database to pull data.
-- Collaborated with team to analyze business requirements to evaluate commercial artificial intelligence products to recommend new technologies to senior leadership.
+<span style="color: #004E9A">**Information Technology Intern**</span> (Jun 2016 – Aug 2016, Jun 2017 – Aug 2017)  
+*Travelers Insurance, Hartford, CT*  
+- Demonstrated programming and database management skills by developing source code utilizing C#, SQL, HTML, and CSS in Visual Studio to query a MS SQL Server database. 
+- Completed computer programming tasks in Java using Eclipse IDE and VBA in Microsoft InfoPath by writing source code requiring the access of a SQL Server database.
+- Collaborated with a team to analyze business requirements to evaluate commercial AI products to recommend new technologies to senior leadership.
 
-### :computer: <span style="color: #C00000">Technical Skills Summary</span>
+### :computer: <span style="color: #C00000">TECHNICAL SKILLS SUMMARY</span>
 
-<span style="color: #004E9A">**Programming languages:**</span> SQL, Python, Java, C#, HTML, CSS, XML, JSON.
+<span style="color: #004E9A">**Programming:**</span> SQL, Python, Java, C#, VBA, HTML, CSS, XML, JSON, ASP.NET Core, Entity Framework.
 
-<span style="color: #004E9A">**Software/Applications:**</span> VS Code, Spyder, JupyterLab, Eclipse, Power BI, Microsoft 365 (Word, Excel, Access, PowerPoint etc.), ArcGIS Pro, Power Query, Power Automate, SharePoint, Feature Manipulation Engine (extract, transform, load software), MS SQL Server, MySQL.
+<span style="color: #004E9A">**Cloud Computing:**</span> Microsoft Azure – Virtual Machines, Blob Storage, App Service, Azure Bot Framework, Cognitive Search, Cosmos Database, Document Intelligence, SQL Server, OpenAI, Machine Learning Studio.
 
-<span style="color: #004E9A">**Statistics:**</span> Sampling techniques, mean, median, mode, range, standard deviation, variance, skewness, linear and multiple regression, hypothesis testing, confidence intervals, probability.
+<span style="color: #004E9A">**Software/Applications:**</span> VS Code, Visual Studio, Spyder, JupyterLab, Eclipse, ArcGIS Pro, Survey 123, Experience Builder, ArcGIS Enterprise, Power Query Editor, Feature Manipulation Engine, SQL Server, SQL Server Management Studio, MySQL, GitHub, M365 (Power BI, Power Automate, Power Apps, SharePoint, Teams, Word, Excel, Access, PowerPoint, Outlook, OneNote, OneDrive, Visio, Planner), Notepad++, GPT-4o.
 
-<span style="color: #004E9A">**Mathematics:**</span> Calculus (differential, integral, multivariable/vector), discrete, linear algebra, abstract algebra, real analysis, topology, differential equations, geometry, differential geometry, complex analysis.
-
-### :pencil2: <span style="color: #C00000">Job Related Training</span>
+### :pencil2: <span style="color: #C00000">JOB RELATED TRAINING</span>
 
 <span style="color: #004E9A">**Microsoft:**</span> [Azure Fundamentals](https://learn.microsoft.com/en-us/users/carmancater/transcript/dg8qqte0kn16o9j?tab=tab-learning-paths){:target="_blank"}, [Power Platform Fundamentals](https://learn.microsoft.com/en-us/users/carmancater/transcript/dg8qqte0kn16o9j?tab=tab-learning-paths){:target="_blank"}, [Basic Concepts of Cybersecurity](https://learn.microsoft.com/en-us/users/carmancater/transcript/dg8qqte0kn16o9j?tab=tab-learning-paths){:target="_blank"}
 
@@ -85,6 +87,6 @@ Rate My Professor reviews: [Central CT State University](https://www.ratemyprofe
 
 <span style="color: #004E9A">**FHWA National Highway Institute:**</span> [Urban Travel Demand Forecasting](https://www.nhi.fhwa.dot.gov/downloads/catalog/FHWA-NHI-152054.pdf){:target="_blank"}
 
-### :page_facing_up: <span style="color: #C00000">Professional Publications</span>
+### :page_facing_up: <span style="color: #C00000">PROFESSIONAL PUBLICATIONS</span>
 
 Cater, C., Perdomo, O., & Valentine, A. (2021) *A Small Variation of the Circular Hodograph Theorem and the Best Elliptical Trajectory of the Planets.*  [https://arxiv.org/abs/2109.11664](https://arxiv.org/abs/2109.11664){:target="_blank"}
