@@ -19,11 +19,13 @@ GPA: 3.85. Minor in mathematics; computer science and management information sys
 <span style="color: #004E9A">**Information Technology Analyst 2**</span> (Jun 2024 - Present)   
 *Connecticut Department of Transportation, Newington, CT*  
 *Division of Technology Services, Cloud Support Unit*  
-- Building enterprise IT solutions, including AI project (Python, Azure) using RAG architecture and agents, API proof-of-concept (ASP.NET Core, Entity Framework, SQL Server), and rebuilding of legacy applications using modern technology.
-- Manage Azure cloud subscriptions, resource groups, and resources including SQL databases, web apps, cognitive search, bots, OpenAI, and machine learning studio.
-- Troubleshoot production issues related to ETLs, ArcGIS Enterprise, and server deployments supporting various applications.
-- Administer SQL Server/SSMS tasks, including SQL Agent jobs, stored procedures, views, tables, and high-availability clusters.
-- Support enterprise systems like ArcGIS, Power BI, SharePoint, and Feature Manipulation Engine, assisting with deployments, governance, and user solutions.
+- Building IT solutions, including AI project (Python, Azure) using RAG architecture, API proof-of-concept (ASP.NET Core, Entity Framework, SQL Server), and rebuilding a legacy ETL using modern tools.
+- Working with Azure cloud subscriptions, resource groups, and resources including Windows Server virtual machines, SQL databases, web apps, AI search, AI bot, OpenAI, and machine learning studio.
+- Troubleshooting production issues related to Feature Manipulation Engine (FME) ETLs and ArcGIS Enterprise servers.
+- Creating Power Automate flows and assisting with the Power BI deployment pipeline supporting agency wide and public facing reports.
+- Working on SQL Server/SSMS tasks, including agent jobs, stored procedures, views, tables, and high availability clusters.
+- Supporting enterprise systems such as ESRI ArcGIS Enterprise, Power BI, SharePoint, and FME, assisting with server deployments, governance, technical documentation, and user solutions.
+
 
 
 <span style="color: #004E9A">**Transportation Planner Trainee**</span>  (Apr 2023 – Jun 2024)  
