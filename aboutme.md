@@ -19,7 +19,7 @@ GPA: 3.85. Minor in mathematics; computer science and management information sys
 <span style="color: #004E9A">**Information Technology Analyst 2**</span> (Jun 2024 - Present)   
 *Connecticut Department of Transportation, Newington, CT*  
 *Division of Technology Services, Cloud Support Unit*  
-- Building IT solutions, including AI project (Python, Azure) using RAG architecture, API proof-of-concept (ASP.NET Core, Entity Framework, SQL Server), and rebuilding a legacy ETL using modern tools.
+- Building IT solutions, including AI project (Python, Azure) using RAG architecture, API proof of concept (ASP.NET Core, Entity Framework, SQL Server), and rebuilding a legacy ETL using modern tools.
 - Working with Azure cloud subscriptions, resource groups, and resources including Windows Server virtual machines, SQL databases, web apps, AI search, AI bot, OpenAI, and machine learning studio.
 - Troubleshooting production issues related to Feature Manipulation Engine (FME) ETLs and ArcGIS Enterprise servers.
 - Creating Power Automate flows and assisting with the Power BI deployment pipeline supporting agency wide and public facing reports.
