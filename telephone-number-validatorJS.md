@@ -41,5 +41,6 @@ userInput.addEventListener('keypress', (e) => {
 // Clear the result when button is clicked
 clearButton.addEventListener("click", function () {
     resultsDiv.innerHTML = null;
+    userInput.value = null;
 });
 ```
