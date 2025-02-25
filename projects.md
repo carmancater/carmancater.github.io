@@ -1,11 +1,13 @@
 ---
 layout: page
 title: Projects
-subtitle: Cool stuff to look at inside!
+subtitle: Cool stuff to look at!
 share-title: Carman Cater - Projects
 ---
 
 - **JavaScript**
+    - 2025: [Telephone Number Validator](telephone-number-validator.html){:target="_blank"}
+        - [View JavaScript](telephone-number-validatorJS.md), [View HTML](telephone-number-validatorHTML.md), [View CSS](telephone-number-validatorCSS.md)
     - 2024: [Roman Numeral Converter](roman-numeral-converter.html){:target="_blank"}
         - [View JavaScript](roman-numeral-converterJS.md), [View HTML](roman-numeral-converterHTML.md), [View CSS](roman-numeral-converterCSS.md)
     - 2024: [Palindrome Checker](palindrome-checker.html){:target="_blank"}
