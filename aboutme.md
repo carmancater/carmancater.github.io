@@ -92,4 +92,4 @@ Rate My Professor reviews: [Central CT State University](https://www.ratemyprofe
 ### :page_facing_up: <span style="color: #C00000">PROFESSIONAL PUBLICATIONS & PRESENTATIONS</span>
 
 - Cater, C., Counts, M., Joy, R., Smith, M., Drachenberg, J. (2025) Driving Transportation Forward: Real-World Data Solutions. https://fme.safe.com/webinars/driving-transportation-forward-real-world-data-solutions/
-- Cater, C., Perdomo, O., & Valentine, A. (2021) *A Small Variation of the Circular Hodograph Theorem and the Best Elliptical Trajectory of the Planets.*  [https://arxiv.org/abs/2109.11664](https://arxiv.org/abs/2109.11664){:target="_blank"}
+- Cater, C., Perdomo, O., Valentine, A. (2021) *A Small Variation of the Circular Hodograph Theorem and the Best Elliptical Trajectory of the Planets.*  [https://arxiv.org/abs/2109.11664](https://arxiv.org/abs/2109.11664){:target="_blank"}
