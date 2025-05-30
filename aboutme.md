@@ -16,7 +16,11 @@ GPA: 3.85. Minor in mathematics; computer science and management information sys
 
 ### :office: <span style="color: #C00000">WORK EXPERIENCE</span>
 
-<span style="color: #004E9A">**Information Technology Analyst 2**</span> (Jun 2024 - Present)   
+<span style="color: #004E9A">**Information Technology Analyst 3**</span> (May 2025 - Present)   
+*Connecticut Department of Transportation, Newington, CT*  
+*Division of Technology Services, Cloud Support Unit*  
+
+<span style="color: #004E9A">**Information Technology Analyst 2**</span> (Jun 2024 - May 2025)   
 *Connecticut Department of Transportation, Newington, CT*  
 *Division of Technology Services, Cloud Support Unit*  
 - Building IT solutions, including AI project (Python, Azure) using RAG architecture, API proof of concept (ASP.NET Core, Entity Framework, SQL Server), and rebuilding a legacy ETL process using modern tools.
@@ -25,8 +29,6 @@ GPA: 3.85. Minor in mathematics; computer science and management information sys
 - Creating Power Automate flows and assisting with the Power BI deployment pipeline supporting agency wide and public facing reports.
 - Working on SQL Server/SSMS tasks, including agent jobs, stored procedures, views, tables, and high availability clusters.
 - Supporting enterprise systems such as ESRI ArcGIS Enterprise, Power BI, SharePoint, and FME, assisting with server deployments, governance, technical documentation, and user solutions.
-
-
 
 <span style="color: #004E9A">**Transportation Planner Trainee**</span>  (Apr 2023 – Jun 2024)  
 *Connecticut Department of Transportation, Newington, CT*  
