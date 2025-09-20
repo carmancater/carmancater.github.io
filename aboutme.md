@@ -14,6 +14,8 @@ Minor in computer science; information technology coursework.
 <span style="color: #004E9A">**BS, Business Management**</span> (05/17)  
 Minor in mathematics; computer science and management information systems coursework.
 
+CT State Middlesex (08/11 – 05/13)
+
 ### :office: <span style="color: #C00000">WORK EXPERIENCE</span>
 
 <span style="color: #004E9A">**Information Technology Analyst 3**</span> (05/25 - Present)   
