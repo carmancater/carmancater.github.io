@@ -8,41 +8,66 @@ share-title: Carman Cater - About Me
 
 Central Connecticut State University 
 
-<span style="color: #004E9A">**MA, Mathematics**</span> (12/20)  
+<span style="color: #004E9A">**MA, Mathematics**</span> (Dec 2020)  
 Minor in computer science; information technology coursework.  
 
-<span style="color: #004E9A">**BS, Business Management**</span> (05/17)  
+<span style="color: #004E9A">**BS, Business Management**</span> (May 2017)  
 Minor in mathematics; computer science and management information systems coursework.
 
 ### :office: <span style="color: #C00000">WORK EXPERIENCE</span>
 
-<span style="color: #004E9A">**Information Technology Analyst 3**</span> (05/25 - Present)   
+<span style="color: #004E9A">**Information Technology Analyst 3**</span> (May 2025 - Present)   
 Connecticut Department of Transportation  
 Division of Technology Services, Cloud Services Unit  
+- Leading the IT department’s AI initiative; created custom Python chatbot hosted in the cloud using internal datasets. Running a pilot program of Microsoft’s Copilot AI for agency adoption.
 
-<span style="color: #004E9A">**Information Technology Analyst 2**</span> (06/24 – 05/25)   
+<span style="color: #004E9A">**Information Technology Analyst 2**</span> (Jun 2024 - May 2025)   
 Connecticut Department of Transportation  
 Division of Technology Services, Cloud Services Unit  
+- Building IT solutions, including AI project (Python, Azure) using RAG architecture, API proof of concept (ASP.NET Core, Entity Framework, SQL Server), and rebuilding a legacy ETL process using modern tools.
+- Working with Azure cloud subscriptions, resource groups, and resources including Windows Server virtual machines, SQL databases, web apps, AI search, AI bot, OpenAI, and machine learning studio.
+- Troubleshooting production issues related to Feature Manipulation Engine (FME) ETLs and ArcGIS Enterprise servers.
+- Creating Power Automate flows and assisting with the Power BI deployment pipeline supporting agency wide and public facing reports.
+- Working on SQL Server/SSMS tasks, including agent jobs, stored procedures, views, tables, and high availability clusters.
+- Supporting enterprise systems such as ESRI ArcGIS Enterprise, Power BI, SharePoint, and FME, assisting with server deployments, governance, technical documentation, and user solutions.
 
-<span style="color: #004E9A">**Transportation Planner Trainee**</span>  (04/23 – 06/24)  
+<span style="color: #004E9A">**Transportation Planner Trainee**</span>  (Apr 2023 – Jun 2024)  
 Connecticut Department of Transportation  
 Office of Enterprise GIS, Analytics, Data Management and Integration  
 Office of Roadway Information Systems
+- Implemented solutions using ETL processes with multiple data sources, utilizing MS SQL Server spatial database, REST APIs, primary keys, and conditional logic.
+- Analyzed business requirements, participated in project planning, and defined data tables for cloud-to-enterprise data migration in Microsoft SQL Server.
+- Utilized Power Automate to transfer SharePoint list data to HTML/CSS project forms, converting to PDF via a Python script; automated tasks using ETL software, Power Query, and Python scripts with technical documentation; created Python scripts for automated data health checks in SQL Server.
+- Integrated, processed, and analyzed data with cloud software, Excel, Power BI, ESRI ArcGIS Pro, and MS Access SQL database.
+- Developed enterprise-grade Power BI dashboard for Traffic Monitoring, ensuring complete development and quality assurance.
 
-<span style="color: #004E9A">**Teaching Assistant**</span> (09/22 – 12/22)  
+<span style="color: #004E9A">**Teaching Assistant**</span> (Sept 2022 – Dec 2022)  
 University of Massachusetts Amherst
+- Conducted and facilitated three weekly calculus discussion sections.
+- Passed rigorous advanced calculus and linear algebra qualifying exam demonstrating strong analytical and problem-solving skills.
+- Honed leadership, communication, and presentation skills by completing a four-month teaching seminar enabling effective delivery of complex information to diverse audiences.
 
 <span style="color: #004E9A">**Adjunct Mathematics and Statistics Professor**</span>  
-CT State Capital (09/20 – 05/22)  
-University of Hartford (08/20 – 05/22)  
-Central Connecticut State University (08/18 – 05/22)  
-Goodwin University (09/19 – 04/20)
+CT State Capital (Sept 2020 – May 2022)  
+University of Hartford (Aug 2020 – May 2022)  
+Central Connecticut State University (Aug 2018 – May 2022)  
+Goodwin University (Sept 2019 – Apr 2020)
 
-<span style="color: #004E9A">**Tutor and Graduate Assistant**</span> (08/14 – 05/18)  
+Rate My Professor reviews: [Central CT State University](https://www.ratemyprofessors.com/professor/2398329){:target="_blank"}, [University of Hartford](https://www.ratemyprofessors.com/professor/2619271){:target="_blank"}, [CT State Capital](https://www.ratemyprofessors.com/professor/2619272){:target="_blank"}, [Goodwin University](https://www.ratemyprofessors.com/professor/2523642){:target="_blank"}
+- Courses: linear algebra, principles of statistics, contemporary math, intermediate algebra, elementary algebra, pre-algebra.        
+- Taught core topics in linear algebra, including vector spaces, linear transformations, matrix operations, determinants, eigenvalues, eigenvectors, and solving systems of linear equations.
+- Delivered instruction in statistical methods and graph theory, including sampling techniques, mean, median, mode, standard deviation, variance, range, skewness, simple linear regression, hypothesis testing, confidence intervals, probability, networks, and trees.
+
+<span style="color: #004E9A">**Tutor and Graduate Assistant**</span> (Aug 2014 – May 2018 )  
 Central Connecticut State University 
+- Assisted university students across all levels of college mathematics and statistics courses by giving presentations as well as guiding them through Microsoft Excel statistical software packages.
+- Acquired effective leadership and communication skills, enhancing ability to convey complex information to non-technical audiences.
 
-<span style="color: #004E9A">**Information Technology Intern**</span> (06/16 – 08/16, 06/17 – 08/17)  
+<span style="color: #004E9A">**Information Technology Intern**</span> (Jun 2016 – Aug 2016, Jun 2017 – Aug 2017)  
 Travelers Insurance
+- Demonstrated programming and database management skills by developing source code utilizing C#, SQL, HTML, and CSS in Visual Studio to query a MS SQL Server database. 
+- Completed computer programming tasks in Java using Eclipse IDE and VBA in Microsoft InfoPath by writing source code requiring the access of a SQL Server database.
+- Collaborated with a team to analyze business requirements to evaluate commercial AI products to recommend new technologies to senior leadership.
 
 ### :computer: <span style="color: #C00000">TECHNICAL SKILLS SUMMARY</span>
 
