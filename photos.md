@@ -9,6 +9,7 @@ share-title: Carman Cater - Photos
 
 | :v:                | :v:                | :v:               |       
 |:------------------:|:------------------:|:-----------------:|
+|<a href="/assets/img/uconnAIFlyer.jpg"><img width="200" src="/assets/img/uconnAIFlyer.jpg"></a>|<a href="/assets/img/uconnAICloseup.jpg"><img width="200" src="/assets/img/uconnAICloseup.jpg"></a>|<a href="/assets/img/uconnAIFaraway.jpg"><img width="200" src="/assets/img/uconnAIFaraway.jpg"></a>|
 |<a href="/assets/img/jackOnHike1.jpeg"><img width="200" src="/assets/img/jackOnHike1.jpeg"></a>|<a href="/assets/img/jackPuppy1.jpeg"><img width="200" src="/assets/img/jackPuppy1.jpeg"></a>|<a href="/assets/img/meTypicalDay.jpg"><img width="200" src="/assets/img/meTypicalDay.jpg"></a>|
 |<a href="/assets/img/maleCardinalBird.jpg"><img width="200" src="/assets/img/maleCardinalBird.jpg"></a>|<a href="/assets/img/walnutBoatFishTank.jpg"><img width="200" src="/assets/img/walnutBoatFishTank.jpg"></a>|<a href="/assets/img/meAtTrb.jpg"><img width="200" src="/assets/img/meAtTrb.jpg"></a>|
 |<a href="/assets/img/meReadingOnCouch.jpg"><img width="200" src="/assets/img/meReadingOnCouch.jpg"></a>|<a href="/assets/img/meOnHikeView.jpg"><img width="200" src="/assets/img/meOnHikeView.jpg"></a>|<a href="/assets/img/dogInMiddletownRoom.jpg"><img width="200" src="/assets/img/dogInMiddletownRoom.jpg"></a>|
