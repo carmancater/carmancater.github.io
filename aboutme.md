@@ -72,7 +72,7 @@ Travelers Insurance
 
 ### :page_facing_up: <span style="color: #C00000">RESEARCH AND PRESENTATIONS</span>
 
-- Cater, C. (2025), UCONN College of Engineering. AI in Engineering: Foundations to Futures
+- Cater, C. (2025), UCONN College of Engineering. *AI in Engineering: Foundations to Futures*
 - Cater, C., Counts, M., Joy, R., Smith, M., Drachenberg, J. (2025) Driving Transportation Forward: Real-World Data Solutions. [https://fme.safe.com/webinars/driving-transportation-forward-real-world-data-solutions/](https://fme.safe.com/webinars/driving-transportation-forward-real-world-data-solutions/){:target="_blank"}
 - Cater, C., Perdomo, O., Valentine, A. (2021) *A Small Variation of the Circular Hodograph Theorem and the Best Elliptical Trajectory of the Planets.*  [https://arxiv.org/abs/2109.11664](https://arxiv.org/abs/2109.11664){:target="_blank"}
 - Cater, C. (2020) CCSU Math Department Colloquium Presentation. *Public-key Cryptography*. Video: [https://mathcolloquium.sites.ccsu.edu/past/Fall2020/CCater-20201113.mp4](https://mathcolloquium.sites.ccsu.edu/past/Fall2020/CCater-20201113.mp4){:target="_blank"}, Flyer: [https://mathcolloquium.sites.ccsu.edu/past/Fall2020/CCater111320.pdf](https://mathcolloquium.sites.ccsu.edu/past/Fall2020/CCater111320.pdf){:target="_blank"}
