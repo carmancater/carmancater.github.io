@@ -26,7 +26,7 @@ Division of Technology Services, Cloud Services Unit
 Connecticut Department of Transportation  
 Division of Technology Services, Cloud Services Unit  
 
-<span style="color: #004E9A">**Transportation Planner Trainee**</span>  (04/23 – 06/24)  
+<span style="color: #004E9A">**Connecticut Careers Trainee**</span>  (04/23 – 06/24)  
 Connecticut Department of Transportation  
 Office of Enterprise GIS, Analytics, Data Management and Integration  
 Office of Roadway Information Systems
