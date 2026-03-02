@@ -31,16 +31,16 @@ Connecticut Department of Transportation
 Office of Enterprise GIS, Analytics, Data Management and Integration  
 Office of Roadway Information Systems
 
-<span style="color: #004E9A">**Mathematics Teaching Assistant**</span> (09/22 – 12/22)  
+<span style="color: #004E9A">**Teaching Assistant - Mathematics**</span> (09/22 – 12/22)  
 University of Massachusetts Amherst
 
-<span style="color: #004E9A">**Adjunct Mathematics and Statistics Instructor**</span>  
+<span style="color: #004E9A">**Adjunct Instructor of Mathematics and Statistics**</span>  
 CT State Capital (09/20 – 05/22)  
 University of Hartford (08/20 – 05/22)  
 Central Connecticut State University (08/18 – 05/22)  
 Goodwin University (09/19 – 04/20)
 
-<span style="color: #004E9A">**Mathematics Tutor and Graduate Assistant**</span> (08/14 – 05/18)  
+<span style="color: #004E9A">**Tutor and Graduate Assistant - Mathematics**</span> (08/14 – 05/18)  
 Central Connecticut State University 
 
 <span style="color: #004E9A">**Information Technology Intern**</span> (06/16 – 08/16, 06/17 – 08/17)  
