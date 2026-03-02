@@ -18,11 +18,11 @@ CT State Middlesex (08/11 – 05/13)
 
 ### :office: <span style="color: #C00000">WORK EXPERIENCE</span>
 
-<span style="color: #004E9A">**Information Technology Analyst 3**</span> (05/25 - Present)   
+<span style="color: #004E9A">**IT Analyst 3**</span> (05/25 - Present)   
 Connecticut Department of Transportation  
 Division of Technology Services, Cloud Services Unit  
 
-<span style="color: #004E9A">**Information Technology Analyst 2**</span> (06/24 – 05/25)   
+<span style="color: #004E9A">**IT Analyst 2**</span> (06/24 – 05/25)   
 Connecticut Department of Transportation  
 Division of Technology Services, Cloud Services Unit  
 
@@ -43,7 +43,7 @@ Goodwin University (09/19 – 04/20)
 <span style="color: #004E9A">**Tutor and Graduate Assistant, Mathematics**</span> (08/14 – 05/18)  
 Central Connecticut State University 
 
-<span style="color: #004E9A">**Information Technology Intern**</span> (06/16 – 08/16, 06/17 – 08/17)  
+<span style="color: #004E9A">**IT Intern**</span> (06/16 – 08/16, 06/17 – 08/17)  
 Travelers Insurance
 
 ### :computer: <span style="color: #C00000">TECHNICAL SKILLS SUMMARY</span>
